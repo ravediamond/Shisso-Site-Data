@@ -1,0 +1,2476 @@
+{
+ "generated": "2026-11-02",
+ "statuses": [
+  "backlog",
+  "reading",
+  "testing",
+  "review",
+  "done"
+ ],
+ "counts": {
+  "backlog": 129,
+  "reading": 0,
+  "testing": 1,
+  "review": 0,
+  "done": 10
+ },
+ "cards": [
+  {
+   "id": "2304.13705",
+   "title": "Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware",
+   "status": "backlog",
+   "tags": [
+    "action-chunking",
+    "bimanual",
+    "imitation-learning",
+    "low-cost-hardware",
+    "manipulation"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2411.04549",
+   "title": "Vision Language Models are In-Context Value Learners",
+   "status": "backlog",
+   "tags": [
+    "dataset",
+    "evaluation",
+    "imitation-learning",
+    "progress-estimation",
+    "vlm"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2502.08844",
+   "title": "MuJoCo Playground",
+   "status": "backlog",
+   "tags": [
+    "humanoid",
+    "locomotion",
+    "manipulation",
+    "sim-to-real",
+    "simulation"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2503.03480",
+   "title": "SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Constrained Learning",
+   "status": "backlog",
+   "tags": [
+    "evaluation",
+    "manipulation",
+    "reinforcement-learning",
+    "safety",
+    "vla"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2506.09985",
+   "title": "V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning",
+   "status": "backlog",
+   "tags": [
+    "evaluation",
+    "jepa",
+    "manipulation",
+    "planning",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2506.19121",
+   "title": "CUPID: Curating Data your Robot Loves with Influence Functions",
+   "status": "backlog",
+   "tags": [
+    "dataset",
+    "diffusion-policy",
+    "evaluation",
+    "imitation-learning",
+    "manipulation"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2509.14932",
+   "title": "Robot Control Stack: A Lean Ecosystem for Robot Learning at Scale",
+   "status": "backlog",
+   "tags": [
+    "harness",
+    "reinforcement-learning",
+    "sim-to-real",
+    "simulation",
+    "vla"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2509.17321",
+   "title": "OpenGVL -- Benchmarking Visual Temporal Progress for Data Curation",
+   "status": "backlog",
+   "tags": [
+    "benchmark",
+    "dataset",
+    "evaluation",
+    "progress-estimation",
+    "vlm"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2509.18282",
+   "title": "PEEK",
+   "status": "backlog",
+   "tags": [
+    "scheduled"
+   ],
+   "added": "2026-11-02",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": "Planned test: §21 mask overlay for ACT"
+  },
+  {
+   "id": "2509.23745",
+   "title": "LocoFormer: Generalist Locomotion via Long-context Adaptation",
+   "status": "backlog",
+   "tags": [
+    "locomotion",
+    "memory",
+    "reinforcement-learning",
+    "sim-to-real",
+    "simulation"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2509.25358",
+   "title": "SARM: Stage-Aware Reward Modeling for Long Horizon Robot Manipulation",
+   "status": "backlog",
+   "tags": [
+    "imitation-learning",
+    "manipulation",
+    "progress-estimation",
+    "reward-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2510.01642",
+   "title": "FailSafe: Reasoning and Recovery from Failures in Vision-Language-Action Models",
+   "status": "backlog",
+   "tags": [
+    "failure-detection",
+    "manipulation",
+    "simulation",
+    "vla",
+    "vlm"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2510.13149",
+   "title": "RoboHiMan: A Hierarchical Evaluation Paradigm for Compositional Generalization in Long-Horizon Manipulation",
+   "status": "backlog",
+   "tags": [
+    "benchmark",
+    "evaluation",
+    "manipulation",
+    "planning"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2511.08544",
+   "title": "LeJEPA: Provable and Scalable Self-Supervised Learning Without the Heuristics",
+   "status": "backlog",
+   "tags": [
+    "jepa",
+    "representation-learning",
+    "scaling",
+    "self-supervised-learning",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2512.06628",
+   "title": "MIND-V: Hierarchical World Model for Long-Horizon Robotic Manipulation with RL-based Physical Alignment",
+   "status": "backlog",
+   "tags": [
+    "manipulation",
+    "planning",
+    "reinforcement-learning",
+    "vlm",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2512.11921",
+   "title": "Towards Accessible Physical AI: LoRA-Based Fine-Tuning of VLA Models for Real-World Robot Control",
+   "status": "backlog",
+   "tags": [
+    "edge-deployment",
+    "imitation-learning",
+    "low-cost-hardware",
+    "so-101",
+    "vla"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2512.21220",
+   "title": "RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic",
+   "status": "backlog",
+   "tags": [
+    "agents",
+    "planning",
+    "safety",
+    "vlm"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2601.21998",
+   "title": "Causal World Modeling for Robot Control",
+   "status": "backlog",
+   "tags": [
+    "diffusion-policy",
+    "manipulation",
+    "real-time-execution",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2602.12281",
+   "title": "Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment",
+   "status": "backlog",
+   "tags": [
+    "agents",
+    "evaluation",
+    "inference-efficiency",
+    "planning",
+    "vla"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2602.19313",
+   "title": "TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics",
+   "status": "backlog",
+   "tags": [
+    "failure-detection",
+    "imitation-learning",
+    "progress-estimation",
+    "reward-model",
+    "vlm"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2603.09056",
+   "title": "Quality over Quantity: Demonstration Curation via Influence Functions for Data-Centric Robot Learning",
+   "status": "backlog",
+   "tags": [
+    "data-augmentation",
+    "imitation-learning",
+    "manipulation",
+    "teleoperation"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2603.13966",
+   "title": "vla-eval: A Unified Evaluation Harness for Vision-Language-Action Models",
+   "status": "backlog",
+   "tags": [
+    "benchmark",
+    "evaluation",
+    "harness",
+    "simulation",
+    "vla"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2603.14367",
+   "title": "HomeGuard: VLM-based Embodied Safeguard for Identifying Contextual Risk in Household Task",
+   "status": "backlog",
+   "tags": [
+    "evaluation",
+    "manipulation",
+    "safety",
+    "vlm"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2603.14482",
+   "title": "V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning",
+   "status": "backlog",
+   "tags": [
+    "jepa",
+    "manipulation",
+    "navigation",
+    "representation-learning",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2604.00055",
+   "title": "Generalizable Dense Reward for Long-Horizon Robotic Tasks",
+   "status": "backlog",
+   "tags": [
+    "navigation",
+    "progress-estimation",
+    "reinforcement-learning",
+    "reward-model",
+    "vlm"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2604.15483",
+   "title": "$π_{0.7}$: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities",
+   "status": "backlog",
+   "tags": [
+    "evaluation",
+    "imitation-learning",
+    "manipulation",
+    "sim-to-real",
+    "vla"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2605.02881",
+   "title": "MolmoAct2: Action Reasoning Models for Real-world Deployment",
+   "status": "backlog",
+   "tags": [
+    "benchmark",
+    "dataset",
+    "flow-matching",
+    "vla",
+    "vlm"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2605.11114",
+   "title": "SEVO",
+   "status": "backlog",
+   "tags": [
+    "scheduled"
+   ],
+   "added": "2026-11-02",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": "Planned test: §18 wrist-camera blanking, then top+side fine-tune"
+  },
+  {
+   "id": "2605.13119",
+   "title": "Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models",
+   "status": "backlog",
+   "tags": [
+    "agents",
+    "manipulation",
+    "planning",
+    "vla",
+    "vlm"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2605.25477",
+   "title": "EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models",
+   "status": "backlog",
+   "tags": [
+    "manipulation",
+    "reinforcement-learning",
+    "safety",
+    "sim-to-real",
+    "vla"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2606.08881",
+   "title": "Benchmarking Vision-Language-Action Models on SO-101: Failure and Recovery Analysis",
+   "status": "backlog",
+   "tags": [
+    "evaluation",
+    "failure-detection",
+    "low-cost-hardware",
+    "so-101",
+    "vla"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2606.09311",
+   "title": "FF-JEPA: Long-Horizon Planning in World Models with Latent Planners",
+   "status": "backlog",
+   "tags": [
+    "inference-efficiency",
+    "jepa",
+    "planning",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2606.10040",
+   "title": "Efficient-WAM: A 1B-Parameter World-Action Model with Low-Cost Future Imagination",
+   "status": "backlog",
+   "tags": [
+    "action-chunking",
+    "inference-efficiency",
+    "real-time-execution",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2606.10305",
+   "title": "SARM2: Multi-Task Stage Aware Reward Modeling for Self Improving Robotic Manipulation",
+   "status": "backlog",
+   "tags": [
+    "manipulation",
+    "progress-estimation",
+    "reinforcement-learning",
+    "reward-model",
+    "vla"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2606.12406",
+   "title": "FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning",
+   "status": "backlog",
+   "tags": [
+    "evaluation",
+    "imitation-learning",
+    "low-cost-hardware",
+    "manipulation"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2606.18589",
+   "title": "DREAM-Chunk: Reactive Action Chunking with Latent World Model",
+   "status": "backlog",
+   "tags": [
+    "action-chunking",
+    "manipulation",
+    "real-time-execution",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2606.18610",
+   "title": "SC3-Eval: Evaluating Robot Foundation Models via Self-Consistent Video Generation",
+   "status": "backlog",
+   "tags": [
+    "evaluation",
+    "failure-detection",
+    "simulation",
+    "vlm",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2606.18632",
+   "title": "ROBOSHACKLES: A Safety Dataset for Human-Injury Prevention in Embodied Foundation Models",
+   "status": "backlog",
+   "tags": [
+    "dataset",
+    "evaluation",
+    "safety",
+    "vla"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2606.19980",
+   "title": "ENPIRE: Agentic Robot Policy Self-Improvement in the Real World",
+   "status": "backlog",
+   "tags": [
+    "agents",
+    "harness",
+    "manipulation",
+    "reinforcement-learning"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2606.22860",
+   "title": "HiL-ResRL: A Model-Agnostic Finetuning Adapter via Human-in-the-loop Residual Reinforcement Learning",
+   "status": "backlog",
+   "tags": [
+    "imitation-learning",
+    "manipulation",
+    "reinforcement-learning",
+    "vla"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2606.26217",
+   "title": "Fast LeWorldModel",
+   "status": "backlog",
+   "tags": [
+    "inference-efficiency",
+    "jepa",
+    "planning",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2606.28128",
+   "title": "PhysisForcing: Physics Reinforced World Simulator for Robotic Manipulation",
+   "status": "backlog",
+   "tags": [
+    "evaluation",
+    "manipulation",
+    "simulation",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2606.31377",
+   "title": "Stage-Transition Dense Reward Modeling for Reinforcement Learning",
+   "status": "backlog",
+   "tags": [
+    "manipulation",
+    "reinforcement-learning",
+    "reward-model",
+    "simulation"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2607.01804",
+   "title": "VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon",
+   "status": "backlog",
+   "tags": [
+    "action-chunking",
+    "failure-detection",
+    "inference-efficiency",
+    "vla"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2607.02599",
+   "title": "AgentLTL: A Trace-Verification Framework for Measuring, Enforcing, and Training Procedural Compliance in Tool-Using LLM Agents",
+   "status": "backlog",
+   "tags": [
+    "agents",
+    "evaluation",
+    "planning",
+    "safety"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2607.02642",
+   "title": "GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation",
+   "status": "backlog",
+   "tags": [
+    "benchmark",
+    "evaluation",
+    "manipulation",
+    "simulation",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2607.04434",
+   "title": "RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies",
+   "status": "backlog",
+   "tags": [
+    "benchmark",
+    "evaluation",
+    "manipulation",
+    "sim-to-real",
+    "simulation"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2607.06262",
+   "title": "Optimal Transport Q-Learning for Flow Policy Steering and Acceleration",
+   "status": "backlog",
+   "tags": [
+    "flow-matching",
+    "inference-efficiency",
+    "reinforcement-learning",
+    "vla"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2607.06988",
+   "title": "WAM-TTT: Steering World-Action Models by Watching Human Play at Test Time",
+   "status": "backlog",
+   "tags": [
+    "manipulation",
+    "memory",
+    "simulation",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2607.13960",
+   "title": "GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch",
+   "status": "backlog",
+   "tags": [
+    "inference-efficiency",
+    "manipulation",
+    "real-time-execution",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2607.15275",
+   "title": "RoboTTT: Context Scaling for Robot Policies",
+   "status": "backlog",
+   "tags": [
+    "imitation-learning",
+    "manipulation",
+    "memory",
+    "vla"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2607.15330",
+   "title": "Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories",
+   "status": "backlog",
+   "tags": [
+    "benchmark",
+    "dataset",
+    "manipulation",
+    "navigation",
+    "vla"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2607.16274",
+   "title": "The JEPA Predictor: A Transferable Operator for Occluded Feature Completion",
+   "status": "backlog",
+   "tags": [
+    "evaluation",
+    "jepa",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2607.16506",
+   "title": "Foresight Residual RL for Long-Horizon Robot Manipulation with Vision-Language-Action Models",
+   "status": "backlog",
+   "tags": [
+    "manipulation",
+    "reinforcement-learning",
+    "simulation",
+    "vla"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2607.18236",
+   "title": "Patch Policy: Efficient Embodied Control via Dense Visual Representations",
+   "status": "backlog",
+   "tags": [
+    "edge-deployment",
+    "evaluation",
+    "inference-efficiency",
+    "manipulation"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2607.19191",
+   "title": "ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU",
+   "status": "backlog",
+   "tags": [
+    "edge-deployment",
+    "real-time-execution",
+    "simulation",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2607.21725",
+   "title": "Addressing the Orchestration Gap in Generalist Robots via Physical Agency",
+   "status": "backlog",
+   "tags": [
+    "agents",
+    "failure-detection",
+    "manipulation",
+    "planning",
+    "vla"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2607.24481",
+   "title": "ArmnetBench v0.1: Parallel Real-World Evaluation of Manipulation Policies on a Low-Cost Arm Farm",
+   "status": "backlog",
+   "tags": [
+    "benchmark",
+    "evaluation",
+    "low-cost-hardware",
+    "manipulation",
+    "so-101"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2607.25337",
+   "title": "Temporal-Distance JEPA: Plan-Aware Representation Learning for Latent World Model Predictive Control",
+   "status": "backlog",
+   "tags": [
+    "jepa",
+    "planning",
+    "reinforcement-learning",
+    "scheduled",
+    "simulation",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": "Planned test: §16 pre/post-grasp split"
+  },
+  {
+   "id": "2608.02580",
+   "title": "Ego2Robot: Scalable Robot Data Synthesis from Egocentric Human Data",
+   "status": "backlog",
+   "tags": [
+    "dataset",
+    "manipulation",
+    "sim-to-real",
+    "simulation",
+    "vla"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2608.06799",
+   "title": "PSG-JEPA + SA/IDM",
+   "status": "backlog",
+   "tags": [
+    "scheduled"
+   ],
+   "added": "2026-11-02",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": "Planned test: §7 three-arm grounding"
+  },
+  {
+   "id": "2608.09381",
+   "title": "JEPA-WAM: Learning Vision-Language-Action Policies with Joint-Embedding World Modeling",
+   "status": "backlog",
+   "tags": [
+    "bimanual",
+    "jepa",
+    "manipulation",
+    "vla",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2608.09410",
+   "title": "Skills in Weights, Memory in Code: Hybrid Learning for Memory-Dependent Robot Manipulation",
+   "status": "backlog",
+   "tags": [
+    "agents",
+    "imitation-learning",
+    "manipulation",
+    "memory",
+    "scheduled",
+    "vla"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": "Planned test: harness stage verification (k-of-w vote)"
+  },
+  {
+   "id": "2608.16590",
+   "title": "Zetta $ζ$: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence",
+   "status": "backlog",
+   "tags": [
+    "agents",
+    "harness",
+    "planning",
+    "real-time-execution",
+    "reinforcement-learning"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2608.23831",
+   "title": "Learning to Act While Waiting: RL Finetuning of Generalist Robot Policies Under Inference Latency",
+   "status": "backlog",
+   "tags": [
+    "inference-efficiency",
+    "manipulation",
+    "real-time-execution",
+    "reinforcement-learning",
+    "vla"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2608.26067",
+   "title": "StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Models",
+   "status": "backlog",
+   "tags": [
+    "inference-efficiency",
+    "manipulation",
+    "memory",
+    "real-time-execution",
+    "vla"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2608.26103",
+   "title": "Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization",
+   "status": "backlog",
+   "tags": [
+    "imitation-learning",
+    "manipulation",
+    "sim-to-real",
+    "simulation",
+    "vlm"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2608.27370",
+   "title": "Puro-2B: Poor Lab's Qwen2-1.5B Trained on RTX 5090 within $5090",
+   "status": "backlog",
+   "tags": [
+    "edge-deployment",
+    "inference-efficiency",
+    "report"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2609.00369",
+   "title": "Puppeteer: Object-Grounded Posture-Aware Co-Speech Gesture Generation",
+   "status": "backlog",
+   "tags": [
+    "dataset",
+    "diffusion-policy",
+    "evaluation",
+    "manipulation",
+    "simulation"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2609.01343",
+   "title": "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers",
+   "status": "backlog",
+   "tags": [
+    "evaluation",
+    "inference-efficiency",
+    "planning"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2609.03565",
+   "title": "PSG-JEPA + SA/IDM",
+   "status": "backlog",
+   "tags": [
+    "scheduled"
+   ],
+   "added": "2026-11-02",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": "Planned test: §7 three-arm grounding"
+  },
+  {
+   "id": "2609.09250",
+   "title": "No Free Checker: A Survey of Verifiers for Robot Policies",
+   "status": "backlog",
+   "tags": [
+    "evaluation",
+    "failure-detection",
+    "reward-model",
+    "safety"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2609.10522",
+   "title": "Show-Harness: Just a VLM Agent Can Play Robots",
+   "status": "backlog",
+   "tags": [
+    "harness",
+    "manipulation",
+    "teleoperation",
+    "vla",
+    "vlm"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2609.11445",
+   "title": "FARM: Reading Failure Signals from the Internal Predictive States of a Frozen Robotic World Model",
+   "status": "backlog",
+   "tags": [
+    "evaluation",
+    "failure-detection",
+    "jepa",
+    "scheduled",
+    "vla",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": "Planned test: readout on W1 / VLA-JEPA states, common-horizon truncation"
+  },
+  {
+   "id": "2609.12191",
+   "title": "GAUGE: When Not to Trust LLM-as-a-Judge in User-Simulated Evaluation of Task-Oriented Agents",
+   "status": "backlog",
+   "tags": [
+    "agents",
+    "evaluation",
+    "safety"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2609.12303",
+   "title": "Breaking the Token Ceiling: Distilling Smaller, Stronger Byte Models",
+   "status": "backlog",
+   "tags": [
+    "evaluation",
+    "inference-efficiency"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2609.16705",
+   "title": "The Robot Data Factory",
+   "status": "backlog",
+   "tags": [
+    "benchmark",
+    "dataset",
+    "evaluation",
+    "sim-to-real",
+    "simulation"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2609.18207",
+   "title": "Reinforcement Learning for Real-Time Vision-Language-Action Policies",
+   "status": "backlog",
+   "tags": [
+    "action-chunking",
+    "manipulation",
+    "real-time-execution",
+    "reinforcement-learning",
+    "vla"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2609.18869",
+   "title": "KINO: A Keyframe Interface for VLM Planning and Whole-Body Control in Humanoid Loco-Manipulation",
+   "status": "backlog",
+   "tags": [
+    "humanoid",
+    "locomotion",
+    "manipulation",
+    "planning",
+    "reinforcement-learning",
+    "vlm"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2609.19413",
+   "title": "From Rollout to Reset: A Graph-Based Harness for Autonomous Long-Horizon Manipulation Evaluation",
+   "status": "backlog",
+   "tags": [
+    "evaluation",
+    "harness",
+    "manipulation",
+    "planning",
+    "vlm"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2609.20820",
+   "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
+   "status": "backlog",
+   "tags": [
+    "harness",
+    "manipulation",
+    "memory",
+    "planning"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2609.26550",
+   "title": "JEV-as-a-Judge: Accept When Confident, Escalate When Unsure",
+   "status": "backlog",
+   "tags": [
+    "agents",
+    "evaluation"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2609.27612",
+   "title": "RegenHarness: A Robot Agent Harness with Evidence-Gated Recursive Self-Improvement",
+   "status": "backlog",
+   "tags": [
+    "agents",
+    "harness",
+    "locomotion",
+    "planning"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2609.30216",
+   "title": "Jev in the Wild: A Data-Driven Analysis of the Jev Model's Functionality, Applications and Ecosystem",
+   "status": "backlog",
+   "tags": [
+    "agents",
+    "evaluation"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2609.31394",
+   "title": "InternW0-$Δ$: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data",
+   "status": "backlog",
+   "tags": [
+    "dataset",
+    "manipulation",
+    "sim-to-real",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2609.32322",
+   "title": "Not All Errors Matter: Decision-Relevant Prediction Error Predicts Planning Quality",
+   "status": "backlog",
+   "tags": [
+    "evaluation",
+    "planning",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2609.33145",
+   "title": "Beyond State-as-Action: Exploiting Command-State Discrepancy for Robot Imitation Learning",
+   "status": "backlog",
+   "tags": [
+    "evaluation",
+    "imitation-learning",
+    "manipulation"
+   ],
+   "added": "2026-11-01",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2609.33595",
+   "title": "Beyond One-Step Accuracy: State-Affine Latent Transition for Reliable Visual Planning",
+   "status": "backlog",
+   "tags": [
+    "planning",
+    "simulation",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2609.34085",
+   "title": "AD-E2E-JEPA: A Joint-Embedding Predictive Architecture For End-to-End Autonomous Driving",
+   "status": "backlog",
+   "tags": [
+    "inference-efficiency",
+    "jepa",
+    "navigation",
+    "planning",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2609.35432",
+   "title": "Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence",
+   "status": "backlog",
+   "tags": [
+    "agents",
+    "harness",
+    "manipulation",
+    "planning"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2609.36808",
+   "title": "Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
+   "status": "backlog",
+   "tags": [
+    "agents",
+    "failure-detection",
+    "manipulation",
+    "scheduled",
+    "vlm"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": "Planned test: §4 repair vs retreat vs retry"
+  },
+  {
+   "id": "2609.37334",
+   "title": "Taming VLAs under Robot Execution Errors: Self-Compensation and Stress Testing",
+   "status": "backlog",
+   "tags": [
+    "benchmark",
+    "evaluation",
+    "manipulation",
+    "sim-to-real",
+    "simulation",
+    "vla"
+   ],
+   "added": "2026-11-01",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2609.38078",
+   "title": "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation",
+   "status": "backlog",
+   "tags": [
+    "harness",
+    "manipulation",
+    "real-time-execution",
+    "vla",
+    "vlm"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2609.39235",
+   "title": "Planning Limits of JEPA",
+   "status": "backlog",
+   "tags": [
+    "scheduled"
+   ],
+   "added": "2026-11-02",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": "Planned test: §19 VLA + WM selection; ranking test on the 69 rollouts"
+  },
+  {
+   "id": "2609.40341",
+   "title": "Ego4WAM: What Matters When Scaling Egocentric Human Data for Robot Learning?",
+   "status": "backlog",
+   "tags": [
+    "imitation-learning",
+    "manipulation",
+    "sim-to-real",
+    "simulation",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2610.00368",
+   "title": "DeepJEPA: Scaling World Models from Within",
+   "status": "backlog",
+   "tags": [
+    "inference-efficiency",
+    "jepa",
+    "planning",
+    "reinforcement-learning",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2610.00727",
+   "title": "CF-JEPA: Improving Robustness of JEPA World Models via Controllability Factorization",
+   "status": "backlog",
+   "tags": [
+    "jepa",
+    "scheduled",
+    "simulation",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": "Planned test: §8 participation ratio, then factorisation"
+  },
+  {
+   "id": "2610.05719",
+   "title": "When to Switch: Reliable Action-Chunk Extension for Vision-Language-Action Models",
+   "status": "backlog",
+   "tags": [
+    "action-chunking",
+    "inference-efficiency",
+    "manipulation",
+    "real-time-execution",
+    "vla"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2610.05882",
+   "title": "Mulligan: Performance-Guided Data Collection for Efficient On-Robot Learning",
+   "status": "backlog",
+   "tags": [
+    "data-augmentation",
+    "imitation-learning",
+    "manipulation",
+    "reinforcement-learning",
+    "reward-model",
+    "scheduled"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": "Planned test: §11 Sobol + failed-layouts-first"
+  },
+  {
+   "id": "2610.05994",
+   "title": "How (and How Not) to Use Data Augmentation in VLA Post-Training",
+   "status": "backlog",
+   "tags": [
+    "data-augmentation",
+    "evaluation",
+    "reinforcement-learning",
+    "reward-model",
+    "scheduled",
+    "vla"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": "Planned test: §20 noise floor"
+  },
+  {
+   "id": "2610.07832",
+   "title": "Harness Engineering for Software Engineering via Modular Executable Dev-Primitives",
+   "status": "backlog",
+   "tags": [
+    "agents",
+    "harness",
+    "inference-efficiency",
+    "memory",
+    "planning"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2610.09228",
+   "title": "Co-Evolving Robot Orchestrators and Policies through Deployment",
+   "status": "backlog",
+   "tags": [
+    "agents",
+    "harness",
+    "manipulation",
+    "scheduled",
+    "vla",
+    "vlm"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": "Planned test: G24 adoption window; flywheel controls"
+  },
+  {
+   "id": "2610.10528",
+   "title": "Long-WAM: Scaling the Context of World-Action Models",
+   "status": "backlog",
+   "tags": [
+    "edge-deployment",
+    "inference-efficiency",
+    "memory",
+    "real-time-execution",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2610.12369",
+   "title": "Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement",
+   "status": "backlog",
+   "tags": [
+    "agents",
+    "evaluation",
+    "manipulation",
+    "planning",
+    "reinforcement-learning"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2610.14162",
+   "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+   "status": "backlog",
+   "tags": [
+    "evaluation",
+    "inference-efficiency",
+    "planning"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2610.15814",
+   "title": "ReTrace: Cross-Stage Failure Attribution for Self-Improving Robotic Manipulation",
+   "status": "backlog",
+   "tags": [
+    "agents",
+    "evaluation",
+    "failure-detection",
+    "imitation-learning",
+    "manipulation",
+    "scheduled"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": "Planned test: §4 repair vs retreat vs retry"
+  },
+  {
+   "id": "2610.18792",
+   "title": "SEAR: Self-Evolving Agentic Robotics",
+   "status": "backlog",
+   "tags": [
+    "agents",
+    "benchmark",
+    "evaluation",
+    "manipulation",
+    "reinforcement-learning",
+    "scheduled"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": "Planned test: G24 adoption window; flywheel controls"
+  },
+  {
+   "id": "2610.18869",
+   "title": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
+   "status": "backlog",
+   "tags": [
+    "benchmark",
+    "evaluation",
+    "imitation-learning",
+    "reward-model",
+    "vla"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2610.18873",
+   "title": "LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts",
+   "status": "backlog",
+   "tags": [
+    "benchmark",
+    "imitation-learning",
+    "manipulation",
+    "reinforcement-learning",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2610.19375",
+   "title": "One-Step Prediction Fidelity Is a Poor Proxy for Planning Performance in JEPA World Models",
+   "status": "backlog",
+   "tags": [
+    "evaluation",
+    "jepa",
+    "planning",
+    "reinforcement-learning",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2610.19600",
+   "title": "Cracking Mobile Manipulation: From Failure Diagnosis to Agentic Robot System",
+   "status": "backlog",
+   "tags": [
+    "agents",
+    "failure-detection",
+    "manipulation",
+    "navigation",
+    "vla"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2610.21412",
+   "title": "JevAgentHarness: Benchmarking, Deploying and Training Decision Models That Share Control with LLMs",
+   "status": "backlog",
+   "tags": [
+    "agents",
+    "evaluation",
+    "inference-efficiency",
+    "planning"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2610.23479",
+   "title": "HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents",
+   "status": "backlog",
+   "tags": [
+    "agents",
+    "benchmark",
+    "harness",
+    "manipulation",
+    "vlm"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2610.23849",
+   "title": "Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts",
+   "status": "backlog",
+   "tags": [
+    "manipulation",
+    "reinforcement-learning",
+    "sim-to-real",
+    "simulation"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2610.24801",
+   "title": "When Better Policies Leave Harder Failures: Coverage Shift in VLM Success Monitoring",
+   "status": "backlog",
+   "tags": [
+    "evaluation",
+    "failure-detection",
+    "simulation",
+    "vlm"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2610.26625",
+   "title": "EgoXperience: Learning World-Grounded Egocentric Representations from Human Experience",
+   "status": "backlog",
+   "tags": [
+    "benchmark",
+    "dataset",
+    "locomotion",
+    "manipulation"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2610.27851",
+   "title": "LaLa-World: Scaling Latent World Models with Natural Language Actions",
+   "status": "backlog",
+   "tags": [
+    "inference-efficiency",
+    "jepa",
+    "planning",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2610.28480",
+   "title": "SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model",
+   "status": "backlog",
+   "tags": [
+    "humanoid",
+    "locomotion",
+    "reinforcement-learning",
+    "world-model"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2610.33565",
+   "title": "WorldFailBench",
+   "status": "backlog",
+   "tags": [
+    "fetch"
+   ],
+   "added": "2026-11-02",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [
+    "WS-126"
+   ],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2610.33718",
+   "title": "RoboJev",
+   "status": "backlog",
+   "tags": [
+    "fetch"
+   ],
+   "added": "2026-11-02",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [
+    "WS-123"
+   ],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2610.34151",
+   "title": "exec-logs judges",
+   "status": "backlog",
+   "tags": [
+    "fetch"
+   ],
+   "added": "2026-11-02",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [
+    "WS-124"
+   ],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2610.34717",
+   "title": "VLA-HWBench",
+   "status": "backlog",
+   "tags": [
+    "fetch"
+   ],
+   "added": "2026-11-02",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [
+    "WS-131"
+   ],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2610.36420",
+   "title": "SO-101 Bench",
+   "status": "backlog",
+   "tags": [
+    "fetch"
+   ],
+   "added": "2026-11-02",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [
+    "WS-125"
+   ],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2610.37170",
+   "title": "SO-101 demo scaling",
+   "status": "backlog",
+   "tags": [
+    "fetch"
+   ],
+   "added": "2026-11-02",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [
+    "WS-128"
+   ],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2610.38221",
+   "title": "CuraEval",
+   "status": "backlog",
+   "tags": [
+    "fetch"
+   ],
+   "added": "2026-11-02",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [
+    "WS-130"
+   ],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2610.38508",
+   "title": "SaiVLA-JEPA: Evaluating Future Latent Prediction in JEPA-Conditioned VLA Control",
+   "status": "backlog",
+   "tags": [
+    "evaluation",
+    "jepa",
+    "manipulation",
+    "vla"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2610.39302",
+   "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+   "status": "backlog",
+   "tags": [
+    "evaluation",
+    "jepa",
+    "world-model"
+   ],
+   "added": "2026-11-01",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2610.40075",
+   "title": "Learning Safe Flow Matching Robot Policies from Binary Feasibility Oracles",
+   "status": "backlog",
+   "tags": [
+    "flow-matching",
+    "manipulation",
+    "safety",
+    "simulation"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2610.41609",
+   "title": "VLA start suppression",
+   "status": "backlog",
+   "tags": [
+    "fetch"
+   ],
+   "added": "2026-11-02",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [
+    "WS-129"
+   ],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2610.39451",
+   "title": "Smooth Action Chunking Via Movement-Primitive Representations for Imitation Learning",
+   "status": "testing",
+   "tags": [
+    "action-chunking",
+    "bimanual",
+    "imitation-learning",
+    "manipulation"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-02",
+   "register_id": "",
+   "ws": [
+    "WS-064"
+   ],
+   "note": "",
+   "summary": ""
+  },
+  {
+   "id": "2603.02115",
+   "title": "Robometer",
+   "status": "done",
+   "tags": [
+    "dataset",
+    "manipulation",
+    "progress-estimation",
+    "register",
+    "reward-model"
+   ],
+   "added": "2026-10-23",
+   "updated": "2026-10-23",
+   "register_id": 10,
+   "ws": [
+    "WS-077",
+    "WS-133"
+   ],
+   "note": "https://shissorobotics.com/blog/2026/10/23/paper-vs-hardware-robometer/",
+   "summary": "A 4B reward model judges SO-101 rollouts zero-shot."
+  },
+  {
+   "id": "2607.27205",
+   "title": "TurboVLA",
+   "status": "done",
+   "tags": [
+    "edge-deployment",
+    "inference-efficiency",
+    "manipulation",
+    "real-time-execution",
+    "register",
+    "vla"
+   ],
+   "added": "2026-10-23",
+   "updated": "2026-10-23",
+   "register_id": 12,
+   "ws": [
+    "WS-005",
+    "WS-008",
+    "WS-011"
+   ],
+   "note": "https://shissorobotics.com/blog/2026/10/23/paper-vs-hardware-turbovla/",
+   "summary": "Our claim that the architecture made the policy ignore its instruction."
+  },
+  {
+   "id": "2609.06508",
+   "title": "VLA-Corrector",
+   "status": "done",
+   "tags": [
+    "failure-detection",
+    "manipulation",
+    "progress-estimation",
+    "register",
+    "vla"
+   ],
+   "added": "2026-10-23",
+   "updated": "2026-10-23",
+   "register_id": 9,
+   "ws": [
+    "WS-068"
+   ],
+   "note": "https://shissorobotics.com/blog/2026/10/23/paper-vs-hardware-vla-corrector/",
+   "summary": "A verifier on observable history flags a failing rollout early enough to correct it."
+  },
+  {
+   "id": "2604.03208",
+   "title": "HWM (hierarchical latent world models)",
+   "status": "done",
+   "tags": [
+    "manipulation",
+    "planning",
+    "register",
+    "simulation",
+    "world-model"
+   ],
+   "added": "2026-10-28",
+   "updated": "2026-10-28",
+   "register_id": 16,
+   "ws": [
+    "WS-051"
+   ],
+   "note": "https://shissorobotics.com/blog/2026/10/28/paper-vs-hardware-hwm/",
+   "summary": "A high-level world model over learned macro-actions beats the low-level model beyond about 1 s (their Fig. 6 crossover)."
+  },
+  {
+   "id": "2610.22178",
+   "title": "REKI",
+   "status": "done",
+   "tags": [
+    "flow-matching",
+    "inference-efficiency",
+    "manipulation",
+    "memory",
+    "register",
+    "vla"
+   ],
+   "added": "2026-10-23",
+   "updated": "2026-10-28",
+   "register_id": 14,
+   "ws": [
+    "WS-025",
+    "WS-026"
+   ],
+   "note": "https://shissorobotics.com/blog/2026/10/23/paper-vs-hardware-reki/",
+   "summary": "Policies without memory oscillate between poses at a measurable rate."
+  },
+  {
+   "id": "2605.26379",
+   "title": "LeJEPA identifiability",
+   "status": "done",
+   "tags": [
+    "evaluation",
+    "jepa",
+    "planning",
+    "register",
+    "world-model"
+   ],
+   "added": "2026-10-29",
+   "updated": "2026-10-29",
+   "register_id": 17,
+   "ws": [
+    "WS-047"
+   ],
+   "note": "https://shissorobotics.com/blog/2026/10/29/paper-vs-hardware-lejepa/",
+   "summary": "A SIGReg JEPA trained on goal-directed data recovers the true latent state only partially and unevenly."
+  },
+  {
+   "id": "2604.04161",
+   "title": "Adaptive Action Chunking (AAC)",
+   "status": "done",
+   "tags": [
+    "action-chunking",
+    "inference-efficiency",
+    "manipulation",
+    "register",
+    "vla"
+   ],
+   "added": "2026-10-30",
+   "updated": "2026-10-30",
+   "register_id": 19,
+   "ws": [
+    "WS-049"
+   ],
+   "note": "https://shissorobotics.com/blog/2026/10/30/paper-vs-hardware-adaptive-chunking/",
+   "summary": "Chunk length chosen from the entropy of N sampled chunks follows the task's phases (long in transport, short at the grasp), lowers the boundary jump, and costs little with batched sampling."
+  },
+  {
+   "id": "2610.28019",
+   "title": "PACT-VLA",
+   "status": "done",
+   "tags": [
+    "action-chunking",
+    "inference-efficiency",
+    "manipulation",
+    "real-time-execution",
+    "register",
+    "vla"
+   ],
+   "added": "2026-10-30",
+   "updated": "2026-10-30",
+   "register_id": 20,
+   "ws": [
+    "WS-059"
+   ],
+   "note": "https://shissorobotics.com/blog/2026/10/30/paper-vs-hardware-pact-vla/",
+   "summary": "Picking among N sampled chunks by their flow residual under the pre-commit observation fits what happens next better than a random or stale pick, with no added control-step delay."
+  },
+  {
+   "id": "2610.32102",
+   "title": "Horizon × depth (Euler steps vs execution horizon)",
+   "status": "done",
+   "tags": [
+    "flow-matching",
+    "inference-efficiency",
+    "manipulation",
+    "real-time-execution",
+    "register",
+    "vla"
+   ],
+   "added": "2026-10-30",
+   "updated": "2026-10-30",
+   "register_id": 21,
+   "ws": [
+    "WS-057"
+   ],
+   "note": "https://shissorobotics.com/blog/2026/10/30/paper-vs-hardware-horizon-depth/",
+   "summary": "With long open-loop commitment, cutting a flow-matching VLA's Euler steps from 10 to 2 contracts the action cloud around an unchanged centroid, saves most of the inference time and avoids edge-GPU thermal throttling."
+  },
+  {
+   "id": "2610.39125",
+   "title": "REMORA",
+   "status": "done",
+   "tags": [
+    "benchmark",
+    "dataset",
+    "memory",
+    "progress-estimation",
+    "register"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-10-31",
+   "register_id": 22,
+   "ws": [
+    "WS-065"
+   ],
+   "note": "https://shissorobotics.com/blog/2026/10/31/paper-vs-hardware-remora/",
+   "summary": "Reading a progress distribution out at the supported peak nearest the previous estimate steadies the estimate and lets it fall during real setbacks, with no worse detection of the stages."
+  }
+ ]
+}
