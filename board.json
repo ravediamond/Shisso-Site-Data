@@ -7,12 +7,32 @@
   "review",
   "done"
  ],
+ "kinds": [
+  "paper",
+  "work"
+ ],
  "counts": {
   "backlog": 129,
   "reading": 0,
   "testing": 1,
   "review": 0,
   "done": 10
+ },
+ "counts_by_kind": {
+  "paper": {
+   "backlog": 129,
+   "reading": 0,
+   "testing": 1,
+   "review": 0,
+   "done": 10
+  },
+  "work": {
+   "backlog": 0,
+   "reading": 0,
+   "testing": 0,
+   "review": 0,
+   "done": 0
+  }
  },
  "cards": [
   {
@@ -31,7 +51,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2411.04549",
@@ -49,7 +71,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2502.08844",
@@ -67,7 +91,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2503.03480",
@@ -85,7 +111,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2506.09985",
@@ -103,7 +131,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2506.19121",
@@ -121,7 +151,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2509.14932",
@@ -139,7 +171,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2509.17321",
@@ -157,7 +191,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2509.18282",
@@ -171,7 +207,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": "Planned test: §21 mask overlay for ACT"
+   "summary": "Planned test: §21 mask overlay for ACT",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2509.23745",
@@ -189,7 +227,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2509.25358",
@@ -206,7 +246,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2510.01642",
@@ -224,7 +266,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2510.13149",
@@ -241,7 +285,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2511.08544",
@@ -259,7 +305,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2512.06628",
@@ -277,7 +325,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2512.11921",
@@ -295,7 +345,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2512.21220",
@@ -312,7 +364,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2601.21998",
@@ -329,7 +383,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2602.12281",
@@ -347,7 +403,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2602.19313",
@@ -365,7 +423,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2603.09056",
@@ -382,7 +442,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2603.13966",
@@ -400,7 +462,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2603.14367",
@@ -417,7 +481,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2603.14482",
@@ -435,7 +501,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2604.00055",
@@ -453,7 +521,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2604.15483",
@@ -471,7 +541,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2605.02881",
@@ -489,7 +561,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2605.11114",
@@ -503,7 +577,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": "Planned test: §18 wrist-camera blanking, then top+side fine-tune"
+   "summary": "Planned test: §18 wrist-camera blanking, then top+side fine-tune",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2605.13119",
@@ -521,7 +597,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2605.25477",
@@ -539,7 +617,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2606.08881",
@@ -557,7 +637,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2606.09311",
@@ -574,7 +656,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2606.10040",
@@ -591,7 +675,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2606.10305",
@@ -609,7 +695,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2606.12406",
@@ -626,7 +714,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2606.18589",
@@ -643,7 +733,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2606.18610",
@@ -661,7 +753,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2606.18632",
@@ -678,7 +772,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2606.19980",
@@ -695,7 +791,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2606.22860",
@@ -712,7 +810,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2606.26217",
@@ -729,7 +829,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2606.28128",
@@ -746,7 +848,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2606.31377",
@@ -763,7 +867,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2607.01804",
@@ -780,7 +886,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2607.02599",
@@ -797,7 +905,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2607.02642",
@@ -815,7 +925,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2607.04434",
@@ -833,7 +945,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2607.06262",
@@ -850,7 +964,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2607.06988",
@@ -867,7 +983,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2607.13960",
@@ -884,7 +1002,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2607.15275",
@@ -901,7 +1021,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2607.15330",
@@ -919,7 +1041,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2607.16274",
@@ -935,7 +1059,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2607.16506",
@@ -952,7 +1078,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2607.18236",
@@ -969,7 +1097,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2607.19191",
@@ -986,7 +1116,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2607.21725",
@@ -1004,7 +1136,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2607.24481",
@@ -1022,7 +1156,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2607.25337",
@@ -1041,7 +1177,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": "Planned test: §16 pre/post-grasp split"
+   "summary": "Planned test: §16 pre/post-grasp split",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2608.02580",
@@ -1059,7 +1197,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2608.06799",
@@ -1073,7 +1213,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": "Planned test: §7 three-arm grounding"
+   "summary": "Planned test: §7 three-arm grounding",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2608.09381",
@@ -1091,7 +1233,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2608.09410",
@@ -1110,7 +1254,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": "Planned test: harness stage verification (k-of-w vote)"
+   "summary": "Planned test: harness stage verification (k-of-w vote)",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2608.16590",
@@ -1128,7 +1274,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2608.23831",
@@ -1146,7 +1294,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2608.26067",
@@ -1164,7 +1314,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2608.26103",
@@ -1182,7 +1334,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2608.27370",
@@ -1198,7 +1352,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2609.00369",
@@ -1216,7 +1372,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2609.01343",
@@ -1232,7 +1390,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2609.03565",
@@ -1246,7 +1406,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": "Planned test: §7 three-arm grounding"
+   "summary": "Planned test: §7 three-arm grounding",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2609.09250",
@@ -1263,7 +1425,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2609.10522",
@@ -1281,7 +1445,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2609.11445",
@@ -1300,7 +1466,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": "Planned test: readout on W1 / VLA-JEPA states, common-horizon truncation"
+   "summary": "Planned test: readout on W1 / VLA-JEPA states, common-horizon truncation",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2609.12191",
@@ -1316,7 +1484,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2609.12303",
@@ -1331,7 +1501,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2609.16705",
@@ -1349,7 +1521,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2609.18207",
@@ -1367,7 +1541,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2609.18869",
@@ -1386,7 +1562,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2609.19413",
@@ -1404,7 +1582,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2609.20820",
@@ -1421,7 +1601,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2609.26550",
@@ -1436,7 +1618,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2609.27612",
@@ -1453,7 +1637,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2609.30216",
@@ -1468,7 +1654,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2609.31394",
@@ -1485,7 +1673,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2609.32322",
@@ -1501,7 +1691,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2609.33145",
@@ -1517,7 +1709,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2609.33595",
@@ -1533,7 +1727,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2609.34085",
@@ -1551,7 +1747,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2609.35432",
@@ -1568,7 +1766,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2609.36808",
@@ -1586,7 +1786,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": "Planned test: §4 repair vs retreat vs retry"
+   "summary": "Planned test: §4 repair vs retreat vs retry",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2609.37334",
@@ -1605,7 +1807,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2609.38078",
@@ -1623,7 +1827,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2609.39235",
@@ -1637,7 +1843,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": "Planned test: §19 VLA + WM selection; ranking test on the 69 rollouts"
+   "summary": "Planned test: §19 VLA + WM selection; ranking test on the 69 rollouts",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2609.40341",
@@ -1655,7 +1863,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.00368",
@@ -1673,7 +1883,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.00727",
@@ -1690,7 +1902,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": "Planned test: §8 participation ratio, then factorisation"
+   "summary": "Planned test: §8 participation ratio, then factorisation",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.05719",
@@ -1708,7 +1922,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.05882",
@@ -1727,7 +1943,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": "Planned test: §11 Sobol + failed-layouts-first"
+   "summary": "Planned test: §11 Sobol + failed-layouts-first",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.05994",
@@ -1746,7 +1964,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": "Planned test: §20 noise floor"
+   "summary": "Planned test: §20 noise floor",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.07832",
@@ -1764,7 +1984,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.09228",
@@ -1783,7 +2005,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": "Planned test: G24 adoption window; flywheel controls"
+   "summary": "Planned test: G24 adoption window; flywheel controls",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.10528",
@@ -1801,7 +2025,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.12369",
@@ -1819,7 +2045,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.14162",
@@ -1835,7 +2063,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.15814",
@@ -1854,7 +2084,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": "Planned test: §4 repair vs retreat vs retry"
+   "summary": "Planned test: §4 repair vs retreat vs retry",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.18792",
@@ -1873,7 +2105,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": "Planned test: G24 adoption window; flywheel controls"
+   "summary": "Planned test: G24 adoption window; flywheel controls",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.18869",
@@ -1891,7 +2125,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.18873",
@@ -1909,7 +2145,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.19375",
@@ -1927,7 +2165,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.19600",
@@ -1945,7 +2185,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.21412",
@@ -1962,7 +2204,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.23479",
@@ -1980,7 +2224,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.23849",
@@ -1997,7 +2243,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.24801",
@@ -2014,7 +2262,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.26625",
@@ -2031,7 +2281,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.27851",
@@ -2048,7 +2300,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.28480",
@@ -2065,7 +2319,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.33565",
@@ -2081,7 +2337,9 @@
     "WS-126"
    ],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.33718",
@@ -2097,7 +2355,9 @@
     "WS-123"
    ],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.34151",
@@ -2113,7 +2373,9 @@
     "WS-124"
    ],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.34717",
@@ -2129,7 +2391,9 @@
     "WS-131"
    ],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.36420",
@@ -2145,7 +2409,9 @@
     "WS-125"
    ],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.37170",
@@ -2161,7 +2427,9 @@
     "WS-128"
    ],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.38221",
@@ -2177,7 +2445,9 @@
     "WS-130"
    ],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.38508",
@@ -2194,7 +2464,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.39302",
@@ -2210,7 +2482,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.40075",
@@ -2227,7 +2501,9 @@
    "register_id": "",
    "ws": [],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.41609",
@@ -2243,7 +2519,9 @@
     "WS-129"
    ],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.39451",
@@ -2262,7 +2540,9 @@
     "WS-064"
    ],
    "note": "",
-   "summary": ""
+   "summary": "",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2603.02115",
@@ -2283,7 +2563,9 @@
     "WS-133"
    ],
    "note": "https://shissorobotics.com/blog/2026/10/23/paper-vs-hardware-robometer/",
-   "summary": "A 4B reward model judges SO-101 rollouts zero-shot."
+   "summary": "A 4B reward model judges SO-101 rollouts zero-shot.",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2607.27205",
@@ -2306,7 +2588,9 @@
     "WS-011"
    ],
    "note": "https://shissorobotics.com/blog/2026/10/23/paper-vs-hardware-turbovla/",
-   "summary": "Our claim that the architecture made the policy ignore its instruction."
+   "summary": "Our claim that the architecture made the policy ignore its instruction.",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2609.06508",
@@ -2326,7 +2610,9 @@
     "WS-068"
    ],
    "note": "https://shissorobotics.com/blog/2026/10/23/paper-vs-hardware-vla-corrector/",
-   "summary": "A verifier on observable history flags a failing rollout early enough to correct it."
+   "summary": "A verifier on observable history flags a failing rollout early enough to correct it.",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2604.03208",
@@ -2346,7 +2632,9 @@
     "WS-051"
    ],
    "note": "https://shissorobotics.com/blog/2026/10/28/paper-vs-hardware-hwm/",
-   "summary": "A high-level world model over learned macro-actions beats the low-level model beyond about 1 s (their Fig. 6 crossover)."
+   "summary": "A high-level world model over learned macro-actions beats the low-level model beyond about 1 s (their Fig. 6 crossover).",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.22178",
@@ -2368,7 +2656,9 @@
     "WS-026"
    ],
    "note": "https://shissorobotics.com/blog/2026/10/23/paper-vs-hardware-reki/",
-   "summary": "Policies without memory oscillate between poses at a measurable rate."
+   "summary": "Policies without memory oscillate between poses at a measurable rate.",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2605.26379",
@@ -2388,7 +2678,9 @@
     "WS-047"
    ],
    "note": "https://shissorobotics.com/blog/2026/10/29/paper-vs-hardware-lejepa/",
-   "summary": "A SIGReg JEPA trained on goal-directed data recovers the true latent state only partially and unevenly."
+   "summary": "A SIGReg JEPA trained on goal-directed data recovers the true latent state only partially and unevenly.",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2604.04161",
@@ -2408,7 +2700,9 @@
     "WS-049"
    ],
    "note": "https://shissorobotics.com/blog/2026/10/30/paper-vs-hardware-adaptive-chunking/",
-   "summary": "Chunk length chosen from the entropy of N sampled chunks follows the task's phases (long in transport, short at the grasp), lowers the boundary jump, and costs little with batched sampling."
+   "summary": "Chunk length chosen from the entropy of N sampled chunks follows the task's phases (long in transport, short at the grasp), lowers the boundary jump, and costs little with batched sampling.",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.28019",
@@ -2429,7 +2723,9 @@
     "WS-059"
    ],
    "note": "https://shissorobotics.com/blog/2026/10/30/paper-vs-hardware-pact-vla/",
-   "summary": "Picking among N sampled chunks by their flow residual under the pre-commit observation fits what happens next better than a random or stale pick, with no added control-step delay."
+   "summary": "Picking among N sampled chunks by their flow residual under the pre-commit observation fits what happens next better than a random or stale pick, with no added control-step delay.",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.32102",
@@ -2450,7 +2746,9 @@
     "WS-057"
    ],
    "note": "https://shissorobotics.com/blog/2026/10/30/paper-vs-hardware-horizon-depth/",
-   "summary": "With long open-loop commitment, cutting a flow-matching VLA's Euler steps from 10 to 2 contracts the action cloud around an unchanged centroid, saves most of the inference time and avoids edge-GPU thermal throttling."
+   "summary": "With long open-loop commitment, cutting a flow-matching VLA's Euler steps from 10 to 2 contracts the action cloud around an unchanged centroid, saves most of the inference time and avoids edge-GPU thermal throttling.",
+   "kind": "paper",
+   "papers": []
   },
   {
    "id": "2610.39125",
@@ -2470,7 +2768,9 @@
     "WS-065"
    ],
    "note": "https://shissorobotics.com/blog/2026/10/31/paper-vs-hardware-remora/",
-   "summary": "Reading a progress distribution out at the supported peak nearest the previous estimate steadies the estimate and lets it fall during real setbacks, with no worse detection of the stages."
+   "summary": "Reading a progress distribution out at the supported peak nearest the previous estimate steadies the estimate and lets it fall during real setbacks, with no worse detection of the stages.",
+   "kind": "paper",
+   "papers": []
   }
  ]
 }
