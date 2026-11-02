@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02",
+ "generated": "2026-11-03",
  "statuses": [
   "backlog",
   "reading",
@@ -12,26 +12,26 @@
   "work"
  ],
  "counts": {
-  "backlog": 129,
-  "reading": 0,
+  "backlog": 128,
+  "reading": 4,
   "testing": 1,
-  "review": 0,
-  "done": 10
+  "review": 1,
+  "done": 46
  },
  "counts_by_kind": {
   "paper": {
-   "backlog": 129,
+   "backlog": 125,
    "reading": 0,
    "testing": 1,
    "review": 0,
-   "done": 10
+   "done": 15
   },
   "work": {
-   "backlog": 0,
-   "reading": 0,
+   "backlog": 3,
+   "reading": 4,
    "testing": 0,
-   "review": 0,
-   "done": 0
+   "review": 1,
+   "done": 31
   }
  },
  "cards": [
@@ -872,25 +872,6 @@
    "papers": []
   },
   {
-   "id": "2607.01804",
-   "title": "VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon",
-   "status": "backlog",
-   "tags": [
-    "action-chunking",
-    "failure-detection",
-    "inference-efficiency",
-    "vla"
-   ],
-   "added": "2026-10-31",
-   "updated": "2026-11-02",
-   "register_id": "",
-   "ws": [],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2607.02599",
    "title": "AgentLTL: A Trace-Verification Framework for Measuring, Enforcing, and Training Procedural Compliance in Tool-Using LLM Agents",
    "status": "backlog",
@@ -1696,24 +1677,6 @@
    "papers": []
   },
   {
-   "id": "2609.33145",
-   "title": "Beyond State-as-Action: Exploiting Command-State Discrepancy for Robot Imitation Learning",
-   "status": "backlog",
-   "tags": [
-    "evaluation",
-    "imitation-learning",
-    "manipulation"
-   ],
-   "added": "2026-11-01",
-   "updated": "2026-11-02",
-   "register_id": "",
-   "ws": [],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2609.33595",
    "title": "Beyond One-Step Accuracy: State-Affine Latent Transition for Reliable Visual Planning",
    "status": "backlog",
@@ -1787,27 +1750,6 @@
    "ws": [],
    "note": "",
    "summary": "Planned test: §4 repair vs retreat vs retry",
-   "kind": "paper",
-   "papers": []
-  },
-  {
-   "id": "2609.37334",
-   "title": "Taming VLAs under Robot Execution Errors: Self-Compensation and Stress Testing",
-   "status": "backlog",
-   "tags": [
-    "benchmark",
-    "evaluation",
-    "manipulation",
-    "sim-to-real",
-    "simulation",
-    "vla"
-   ],
-   "added": "2026-11-01",
-   "updated": "2026-11-02",
-   "register_id": "",
-   "ws": [],
-   "note": "",
-   "summary": "",
    "kind": "paper",
    "papers": []
   },
@@ -1903,26 +1845,6 @@
    "ws": [],
    "note": "",
    "summary": "Planned test: §8 participation ratio, then factorisation",
-   "kind": "paper",
-   "papers": []
-  },
-  {
-   "id": "2610.05719",
-   "title": "When to Switch: Reliable Action-Chunk Extension for Vision-Language-Action Models",
-   "status": "backlog",
-   "tags": [
-    "action-chunking",
-    "inference-efficiency",
-    "manipulation",
-    "real-time-execution",
-    "vla"
-   ],
-   "added": "2026-10-31",
-   "updated": "2026-11-02",
-   "register_id": "",
-   "ws": [],
-   "note": "",
-   "summary": "",
    "kind": "paper",
    "papers": []
   },
@@ -2324,132 +2246,6 @@
    "papers": []
   },
   {
-   "id": "2610.33565",
-   "title": "WorldFailBench",
-   "status": "backlog",
-   "tags": [
-    "fetch"
-   ],
-   "added": "2026-11-02",
-   "updated": "2026-11-02",
-   "register_id": "",
-   "ws": [
-    "WS-126"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
-   "id": "2610.33718",
-   "title": "RoboJev",
-   "status": "backlog",
-   "tags": [
-    "fetch"
-   ],
-   "added": "2026-11-02",
-   "updated": "2026-11-02",
-   "register_id": "",
-   "ws": [
-    "WS-123"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
-   "id": "2610.34151",
-   "title": "exec-logs judges",
-   "status": "backlog",
-   "tags": [
-    "fetch"
-   ],
-   "added": "2026-11-02",
-   "updated": "2026-11-02",
-   "register_id": "",
-   "ws": [
-    "WS-124"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
-   "id": "2610.34717",
-   "title": "VLA-HWBench",
-   "status": "backlog",
-   "tags": [
-    "fetch"
-   ],
-   "added": "2026-11-02",
-   "updated": "2026-11-02",
-   "register_id": "",
-   "ws": [
-    "WS-131"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
-   "id": "2610.36420",
-   "title": "SO-101 Bench",
-   "status": "backlog",
-   "tags": [
-    "fetch"
-   ],
-   "added": "2026-11-02",
-   "updated": "2026-11-02",
-   "register_id": "",
-   "ws": [
-    "WS-125"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
-   "id": "2610.37170",
-   "title": "SO-101 demo scaling",
-   "status": "backlog",
-   "tags": [
-    "fetch"
-   ],
-   "added": "2026-11-02",
-   "updated": "2026-11-02",
-   "register_id": "",
-   "ws": [
-    "WS-128"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
-   "id": "2610.38221",
-   "title": "CuraEval",
-   "status": "backlog",
-   "tags": [
-    "fetch"
-   ],
-   "added": "2026-11-02",
-   "updated": "2026-11-02",
-   "register_id": "",
-   "ws": [
-    "WS-130"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2610.38508",
    "title": "SaiVLA-JEPA: Evaluating Future Latent Prediction in JEPA-Conditioned VLA Control",
    "status": "backlog",
@@ -2460,24 +2256,6 @@
     "vla"
    ],
    "added": "2026-10-31",
-   "updated": "2026-11-02",
-   "register_id": "",
-   "ws": [],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
-   "id": "2610.39302",
-   "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
-   "status": "backlog",
-   "tags": [
-    "evaluation",
-    "jepa",
-    "world-model"
-   ],
-   "added": "2026-11-01",
    "updated": "2026-11-02",
    "register_id": "",
    "ws": [],
@@ -2506,6 +2284,148 @@
    "papers": []
   },
   {
+   "id": "2610.33565",
+   "title": "WorldFailBench",
+   "status": "backlog",
+   "tags": [
+    "fetch"
+   ],
+   "added": "2026-11-02",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-126"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2610.33718",
+   "title": "RoboJev",
+   "status": "backlog",
+   "tags": [
+    "fetch"
+   ],
+   "added": "2026-11-02",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-123"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2610.34151",
+   "title": "exec-logs judges",
+   "status": "backlog",
+   "tags": [
+    "fetch"
+   ],
+   "added": "2026-11-02",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-124"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2610.34717",
+   "title": "VLA-HWBench",
+   "status": "backlog",
+   "tags": [
+    "fetch"
+   ],
+   "added": "2026-11-02",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-131"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2610.36420",
+   "title": "SO-101 Bench",
+   "status": "backlog",
+   "tags": [
+    "fetch"
+   ],
+   "added": "2026-11-02",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-125"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2610.37170",
+   "title": "SO-101 demo scaling",
+   "status": "backlog",
+   "tags": [
+    "fetch"
+   ],
+   "added": "2026-11-02",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-128"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2610.38221",
+   "title": "CuraEval",
+   "status": "backlog",
+   "tags": [
+    "fetch"
+   ],
+   "added": "2026-11-02",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-130"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2610.40026",
+   "title": "RoboSeed: Multidimensional Evaluation of Vision-Language-Action and World-Action Models: Capability, Resource Affordability, and Research Evidence",
+   "status": "backlog",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-148"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
    "id": "2610.41609",
    "title": "VLA start suppression",
    "status": "backlog",
@@ -2513,7 +2433,7 @@
     "fetch"
    ],
    "added": "2026-11-02",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "register_id": "",
    "ws": [
     "WS-129"
@@ -2521,6 +2441,126 @@
    "note": "",
    "summary": "",
    "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "ws-080",
+   "title": "Paper 4 (own-predictor monitor): no-go for now — the remaining 40 sealed §29 layouts on a free arm day, then revisit",
+   "status": "backlog",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-080"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-092",
+   "title": "LeRobot open PRs: ten that need a concrete change, each with a review draft and a ready patch (suggestion blocks + `git am` patch so the fix carries Ravindu's authorship); contribution opportunities as the second output — nothing posted",
+   "status": "backlog",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-092"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-106",
+   "title": "Paper feasibility: \"The small-data curve — when does a JEPA latent stop being kinematics?\" — five data scales (45 → 2,900 episodes), the three failed probes + R² per scale (memo only)",
+   "status": "backlog",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-106"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "jepa-world-model",
+   "title": "Shisso paper JEPA: a small JEPA world model on a low-cost arm",
+   "status": "reading",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-135"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "register-reproducibility",
+   "title": "Shisso paper A: reproducibility of the papers register",
+   "status": "reading",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-078",
+    "WS-069",
+    "WS-136",
+    "WS-148",
+    "WS-149"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "reward-models-stopping-rule",
+   "title": "Shisso paper B: failure monitors and the episode-length null for robot reward models",
+   "status": "reading",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-070",
+    "WS-077",
+    "WS-133"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "vla-edge-inference",
+   "title": "Shisso paper C: a sync-mode inference recipe for a VLA on an edge GPU",
+   "status": "reading",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-071",
+    "WS-076",
+    "WS-134"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "work",
    "papers": []
   },
   {
@@ -2534,7 +2574,7 @@
     "manipulation"
    ],
    "added": "2026-10-31",
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "register_id": "",
    "ws": [
     "WS-064"
@@ -2542,6 +2582,22 @@
    "note": "",
    "summary": "",
    "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "ws-008",
+   "title": "TurboVLA + transformers 5 upstream drafts",
+   "status": "review",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-008"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "work",
    "papers": []
   },
   {
@@ -2615,28 +2671,6 @@
    "papers": []
   },
   {
-   "id": "2604.03208",
-   "title": "HWM (hierarchical latent world models)",
-   "status": "done",
-   "tags": [
-    "manipulation",
-    "planning",
-    "register",
-    "simulation",
-    "world-model"
-   ],
-   "added": "2026-10-28",
-   "updated": "2026-10-28",
-   "register_id": 16,
-   "ws": [
-    "WS-051"
-   ],
-   "note": "https://shissorobotics.com/blog/2026/10/28/paper-vs-hardware-hwm/",
-   "summary": "A high-level world model over learned macro-actions beats the low-level model beyond about 1 s (their Fig. 6 crossover).",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2610.22178",
    "title": "REKI",
    "status": "done",
@@ -2661,24 +2695,24 @@
    "papers": []
   },
   {
-   "id": "2605.26379",
-   "title": "LeJEPA identifiability",
+   "id": "2604.03208",
+   "title": "HWM (hierarchical latent world models)",
    "status": "done",
    "tags": [
-    "evaluation",
-    "jepa",
+    "manipulation",
     "planning",
     "register",
+    "simulation",
     "world-model"
    ],
-   "added": "2026-10-29",
-   "updated": "2026-10-29",
-   "register_id": 17,
+   "added": "2026-10-28",
+   "updated": "2026-11-03",
+   "register_id": 16,
    "ws": [
-    "WS-047"
+    "WS-051"
    ],
-   "note": "https://shissorobotics.com/blog/2026/10/29/paper-vs-hardware-lejepa/",
-   "summary": "A SIGReg JEPA trained on goal-directed data recovers the true latent state only partially and unevenly.",
+   "note": "https://shissorobotics.com/blog/2026/10/28/paper-vs-hardware-hwm/",
+   "summary": "A high-level world model over learned macro-actions beats the low-level model beyond about 1 s (their Fig. 6 crossover).",
    "kind": "paper",
    "papers": []
   },
@@ -2694,13 +2728,137 @@
     "vla"
    ],
    "added": "2026-10-30",
-   "updated": "2026-10-30",
+   "updated": "2026-11-03",
    "register_id": 19,
    "ws": [
     "WS-049"
    ],
    "note": "https://shissorobotics.com/blog/2026/10/30/paper-vs-hardware-adaptive-chunking/",
    "summary": "Chunk length chosen from the entropy of N sampled chunks follows the task's phases (long in transport, short at the grasp), lowers the boundary jump, and costs little with batched sampling.",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2605.26379",
+   "title": "LeJEPA identifiability",
+   "status": "done",
+   "tags": [
+    "evaluation",
+    "jepa",
+    "planning",
+    "register",
+    "world-model"
+   ],
+   "added": "2026-10-29",
+   "updated": "2026-11-03",
+   "register_id": 17,
+   "ws": [
+    "WS-047"
+   ],
+   "note": "https://shissorobotics.com/blog/2026/10/29/paper-vs-hardware-lejepa/",
+   "summary": "A SIGReg JEPA trained on goal-directed data recovers the true latent state only partially and unevenly.",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2607.01804",
+   "title": "VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon",
+   "status": "done",
+   "tags": [
+    "action-chunking",
+    "failure-detection",
+    "inference-efficiency",
+    "vla"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-087"
+   ],
+   "note": "projects/vla-corrector-zju/README.md",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2609.33145",
+   "title": "Beyond State-as-Action: Exploiting Command-State Discrepancy for Robot Imitation Learning",
+   "status": "done",
+   "tags": [
+    "evaluation",
+    "imitation-learning",
+    "manipulation"
+   ],
+   "added": "2026-11-01",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-088"
+   ],
+   "note": "projects/execution-gap/README.md",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2609.37334",
+   "title": "Taming VLAs under Robot Execution Errors: Self-Compensation and Stress Testing",
+   "status": "done",
+   "tags": [
+    "benchmark",
+    "evaluation",
+    "manipulation",
+    "sim-to-real",
+    "simulation",
+    "vla"
+   ],
+   "added": "2026-11-01",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-088"
+   ],
+   "note": "projects/execution-gap/README.md",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2610.05719",
+   "title": "When to Switch: Reliable Action-Chunk Extension for Vision-Language-Action Models",
+   "status": "done",
+   "tags": [
+    "action-chunking",
+    "inference-efficiency",
+    "manipulation",
+    "real-time-execution",
+    "vla"
+   ],
+   "added": "2026-10-31",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-086"
+   ],
+   "note": "projects/race-diagnostic/README.md",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2610.23769",
+   "title": "Not All Actions Contribute Equally: Learning Precise Progress Estimation from Imprecise Demonstrations",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-058"
+   ],
+   "note": "shared/gate/data/2026-10-23_prime/README.md",
+   "summary": "",
    "kind": "paper",
    "papers": []
   },
@@ -2717,7 +2875,7 @@
     "vla"
    ],
    "added": "2026-10-30",
-   "updated": "2026-10-30",
+   "updated": "2026-11-03",
    "register_id": 20,
    "ws": [
     "WS-059"
@@ -2740,7 +2898,7 @@
     "vla"
    ],
    "added": "2026-10-30",
-   "updated": "2026-10-30",
+   "updated": "2026-11-03",
    "register_id": 21,
    "ws": [
     "WS-057"
@@ -2762,7 +2920,7 @@
     "register"
    ],
    "added": "2026-10-31",
-   "updated": "2026-10-31",
+   "updated": "2026-11-03",
    "register_id": 22,
    "ws": [
     "WS-065"
@@ -2770,6 +2928,505 @@
    "note": "https://shissorobotics.com/blog/2026/10/31/paper-vs-hardware-remora/",
    "summary": "Reading a progress distribution out at the supported peak nearest the previous estimate steadies the estimate and lets it fall during real setbacks, with no worse detection of the stages.",
    "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "ws-001",
+   "title": "§28 action sensitivity of W1 / W2′",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-001"
+   ],
+   "note": "shared/gate/data/2026-10-24_action_sensitivity/README.md",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-003",
+   "title": "§30 inverse-dynamics latent-action probe",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-003"
+   ],
+   "note": "shared/gate/data/2026-10-24_inverse_dynamics/README.md",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-004",
+   "title": "§29 VLA-JEPA own surprise signal: feasibility, then exploratory replay",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-004"
+   ],
+   "note": "shared/gate/data/2026-10-24_vla_jepa_surprise/README.md",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-005",
+   "title": "TurboVLA: horizon-fair probe, plugin v0.3.0 on the Orin, H=50 run prepared (not launched)",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-005"
+   ],
+   "note": "projects/turbovla/data/2026-10-24_horizon/README.md",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-006",
+   "title": "§26 world-model report for W2′",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-006"
+   ],
+   "note": "shared/gate/data/2026-10-24_wm_report/README.md",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-007",
+   "title": "VLA-JEPA rotary fix (#4835): environment and measurement checks",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-007"
+   ],
+   "note": "lerobot-contrib/vla-jepa-rope-compat/CHECKS.md",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-009",
+   "title": "LeRobot PR reviews: Orin numbers (GPU session)",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-009"
+   ],
+   "note": "lerobot-contrib/review-handoff-2026-10-22/HARDWARE_PR_QUEUE_2026-10-24.md",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-010",
+   "title": "Torque-aware VLA-JEPA: Phase 0 recon",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-010"
+   ],
+   "note": "projects/torque-vla-jepa/PHASE0_RECON.md",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-012",
+   "title": "VLA-JEPA rotary fix: the comparison and the upstream draft",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-012"
+   ],
+   "note": "lerobot-contrib/vla-jepa-rope-compat/REPORT.md",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-018",
+   "title": "§29 step 2: VLA-JEPA's own surprise on the robot (robot day)",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-018"
+   ],
+   "note": "journal/workstack/ARCHIVE.md (WS-018)",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-019",
+   "title": "LeRobot PR reviews batch 3: Orin numbers (offline)",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-019"
+   ],
+   "note": "lerobot-contrib/review-handoff-2026-10-22/HARDWARE_PR_QUEUE_2026-10-24.md",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-022",
+   "title": "My LeRobot PR: processor step settings across save/load, final checks",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-022"
+   ],
+   "note": "lerobot-contrib/review-handoff-2026-10-22/my-prs/PR_processor_step_configs.md",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-025",
+   "title": "REKI SO-101: frozen-VLM fine-tune on vast (3,500 steps, batch 30 × 4)",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-025"
+   ],
+   "note": "projects/reki-so101/RUN_PLAN.md",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-026",
+   "title": "REKI SO-101: serve on vast, 20-trial eval per task, PR #7 results draft",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-026"
+   ],
+   "note": "journal/workstack/ARCHIVE.md (WS-026)",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-028",
+   "title": "Deep-dive post: VLA chunk-boundary jumps on the Orin, fixed in 0.4 ms (blog + social drafts)",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-028"
+   ],
+   "note": "https://shissorobotics.com/blog/2026/10/25/vla-chunk-boundary-jumps/",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-029",
+   "title": "Research-engineer post series: mine the repo for stories, write up to 5 full posts",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-029"
+   ],
+   "note": "journal/drafts/2026-10-25-re-series-inventory.md",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-031",
+   "title": "vla.cpp PR: SmolVLA prefix overwrite (prev_actions, inference_delay), answers #46 — prepared, owner opens",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-031"
+   ],
+   "note": "src/layers/prefix_cond.h",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-032",
+   "title": "Fix the published chunk-boundary post: add LeRobot identity / exact RTC as baselines",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-032"
+   ],
+   "note": "journal/drafts/2026-10-25-chunk-boundaries-shots/2026-10-26/",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-033",
+   "title": "paper-vs-hardware audit fixes (L0 recomputes, cross-refs, units) + shissorobotics.com phase 3 live",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-033"
+   ],
+   "note": "ravediamond/paper-vs-hardware",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-045",
+   "title": "Book: verify the 10-27 Levine pass against the register (§16.1c table, 16.2 clause, 16.5a, 16.7b, 8.7), extend it to chapters 6 / 8 / 15 / F, build the interview rehearsal set",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-045"
+   ],
+   "note": "check_links.py",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-050",
+   "title": "SURVEYOR (NeurIPS 2026 submission): τ calibration on real-robot LeWM latents, the accept rule as a seventh monitor",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-050"
+   ],
+   "note": "projects/surveyor/README.md",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-061",
+   "title": "Claims in the register: per paper its goal and hypotheses, one triple per tested claim (subject / relation / object / metric / conditions), contradictions found at build",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-061"
+   ],
+   "note": "https://shissorobotics.com/findings/#disagree",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-068",
+   "title": "Audit the claims register against the PDFs: every goal, hypothesis, `stated_in`, `theirs`, relation and condition re-read from the paper — citation fixes on a branch, content rows for the owner",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-068"
+   ],
+   "note": "journal/drafts/2026-10-31-claims-audit/REPORT.md",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-073",
+   "title": "Paper feasibility 2 — \"Episode length as the null model for robot reward models\": the short-paper version (memo only)",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-073"
+   ],
+   "note": "journal/papers/length-baseline/FEASIBILITY.md",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-074",
+   "title": "Paper feasibility 4 — \"The policy's own predictor as its failure monitor\": zero extra parameters (memo only)",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-074"
+   ],
+   "note": "journal/papers/own-predictor-monitor/FEASIBILITY.md",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-085",
+   "title": "TOPReward vs elapsed time (WS-081 A4): Qwen3-VL-8B TOPReward on ArmnetBench 2,047 + own rollouts through LENGTH_PROTOCOL.md's analyses, folded into the WS-077 draft",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-085"
+   ],
+   "note": "journal/papers/failure-monitors/topreward/RESULT.md",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-088",
+   "title": "Execution on a $200 arm (WS-082 C1 + C2): servo dead zone and command-vs-state gap, leader vs follower side per metric, citing 2609.37334 and 2609.33145 — frozen protocol, offline",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-088"
+   ],
+   "note": "projects/execution-gap/README.md",
+   "summary": "",
+   "kind": "work",
+   "papers": [
+    "2609.37334",
+    "2609.33145"
+   ]
+  },
+  {
+   "id": "ws-089",
+   "title": "Gripper timing at transitions: the 32× gripper error of WS-086, aligned on G15 stage labels and the STS3215 command floor (G15-v3), offline — feeds smooth-chunking gate B",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-089"
+   ],
+   "note": "projects/gripper-timing/README.md",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-091",
+   "title": "Paper feasibility: \"A small JEPA world model learns the arm, not the task\" — twelve pre-registered uses of W1 on a $200 robot; step 0 = the checkpoint-load audit of every W1 / W2 gate",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-091"
+   ],
+   "note": "ravediamond/paper-jepa-world-model",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-108",
+   "title": "Paper feasibility: \"What a 13 ms latent surprise can see\" — detection per perturbation class (displacement, lighting, jitter, frame drop, wrong action, slip, timing) for W1, W2′ and VLA-JEPA's own predictor, at a fixed false-alarm rate (memo only)",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-108"
+   ],
+   "note": "projects/jepa-surprise-receptive-field/PROTOCOL.md",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-116",
+   "title": "Score the frozen receptive-field protocol (WS-108): perturbation library, checks, M1/M2 then M3 per class × step, sanity bar, N rows",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-03",
+   "register_id": "",
+   "ws": [
+    "WS-116"
+   ],
+   "note": "projects/jepa-surprise-receptive-field/README.md",
+   "summary": "",
+   "kind": "work",
    "papers": []
   }
  ]
