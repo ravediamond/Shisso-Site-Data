@@ -12,17 +12,17 @@
   "work"
  ],
  "counts": {
-  "backlog": 127,
+  "backlog": 126,
   "reading": 4,
-  "testing": 3,
+  "testing": 4,
   "review": 1,
   "done": 51
  },
  "counts_by_kind": {
   "paper": {
-   "backlog": 125,
+   "backlog": 124,
    "reading": 0,
-   "testing": 3,
+   "testing": 4,
    "review": 0,
    "done": 19
   },
@@ -2404,22 +2404,6 @@
    "papers": []
   },
   {
-   "id": "2611.01390",
-   "title": "Same Path, Less Time: Training-Free Fast Execution of Vision-Language-Action Models under Inference Latency",
-   "status": "backlog",
-   "tags": [],
-   "added": "2026-11-06",
-   "updated": "2026-11-06",
-   "register_id": "",
-   "ws": [
-    "WS-181"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2611.03168",
    "title": "Rollout then Recycle: 3,718 Labelled Real-Robot Episodes from Benchmarking 7 Policies on 12 Tasks",
    "status": "backlog",
@@ -2570,6 +2554,23 @@
    "register_id": "",
    "ws": [
     "WS-168"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2611.01390",
+   "title": "Same Path, Less Time: Training-Free Fast Execution of Vision-Language-Action Models under Inference Latency",
+   "status": "testing",
+   "tags": [],
+   "added": "2026-11-06",
+   "updated": "2026-11-06",
+   "register_id": "",
+   "ws": [
+    "WS-181",
+    "WS-186"
    ],
    "note": "",
    "summary": "",
