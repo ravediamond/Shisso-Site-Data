@@ -12,16 +12,16 @@
   "work"
  ],
  "counts": {
-  "backlog": 125,
-  "reading": 4,
+  "backlog": 124,
+  "reading": 5,
   "testing": 5,
   "review": 1,
   "done": 47
  },
  "counts_by_kind": {
   "paper": {
-   "backlog": 123,
-   "reading": 0,
+   "backlog": 122,
+   "reading": 1,
    "testing": 5,
    "review": 0,
    "done": 15
@@ -2422,24 +2422,6 @@
    "papers": []
   },
   {
-   "id": "2610.38221",
-   "title": "CuraEval",
-   "status": "backlog",
-   "tags": [
-    "fetch"
-   ],
-   "added": "2026-11-02",
-   "updated": "2026-11-06",
-   "register_id": "",
-   "ws": [
-    "WS-130"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "jepa-world-model",
    "title": "Shisso paper JEPA: a small JEPA world model on a low-cost arm",
    "status": "reading",
@@ -2509,6 +2491,25 @@
    "note": "",
    "summary": "",
    "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "2610.38221",
+   "title": "CuraEval",
+   "status": "reading",
+   "tags": [
+    "fetch"
+   ],
+   "added": "2026-11-02",
+   "updated": "2026-11-06",
+   "register_id": "",
+   "ws": [
+    "WS-130",
+    "WS-178"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
    "papers": []
   },
   {
