@@ -14,7 +14,7 @@
  "counts": {
   "backlog": 127,
   "reading": 4,
-  "testing": 1,
+  "testing": 2,
   "review": 1,
   "done": 47
  },
@@ -22,7 +22,7 @@
   "paper": {
    "backlog": 125,
    "reading": 0,
-   "testing": 1,
+   "testing": 2,
    "review": 0,
    "done": 15
   },
@@ -2562,6 +2562,22 @@
    "register_id": "",
    "ws": [
     "WS-064"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2611.08156",
+   "title": "La-JEPA: Compact Robot Policies with Latent World Modeling",
+   "status": "testing",
+   "tags": [],
+   "added": "2026-11-06",
+   "updated": "2026-11-06",
+   "register_id": "",
+   "ws": [
+    "WS-167"
    ],
    "note": "",
    "summary": "",
