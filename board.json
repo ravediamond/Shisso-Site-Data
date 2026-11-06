@@ -13,10 +13,10 @@
  ],
  "counts": {
   "backlog": 127,
-  "reading": 5,
+  "reading": 4,
   "testing": 1,
   "review": 1,
-  "done": 46
+  "done": 47
  },
  "counts_by_kind": {
   "paper": {
@@ -28,10 +28,10 @@
   },
   "work": {
    "backlog": 2,
-   "reading": 5,
+   "reading": 4,
    "testing": 0,
    "review": 1,
-   "done": 31
+   "done": 32
   }
  },
  "cards": [
@@ -2548,22 +2548,6 @@
    "papers": []
   },
   {
-   "id": "ws-106",
-   "title": "Paper feasibility: \"The small-data curve — when does a JEPA latent stop being kinematics?\" — five data scales (45 → 2,900 episodes), the three failed probes + R² per scale (memo only)",
-   "status": "reading",
-   "tags": [],
-   "added": "2026-11-03",
-   "updated": "2026-11-06",
-   "register_id": "",
-   "ws": [
-    "WS-106"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "work",
-   "papers": []
-  },
-  {
    "id": "2610.39451",
    "title": "Smooth Action Chunking Via Movement-Primitive Representations for Imitation Learning",
    "status": "testing",
@@ -3425,6 +3409,22 @@
     "WS-116"
    ],
    "note": "projects/jepa-surprise-receptive-field/README.md",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-106",
+   "title": "Paper feasibility: \"The small-data curve — when does a JEPA latent stop being kinematics?\" — five data scales (45 → 2,900 episodes), the three failed probes + R² per scale (memo only)",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-06",
+   "register_id": "",
+   "ws": [
+    "WS-106"
+   ],
+   "note": "runs/WS-106/probes/S4/verdict.json:",
    "summary": "",
    "kind": "work",
    "papers": []
