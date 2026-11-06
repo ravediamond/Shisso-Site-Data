@@ -12,17 +12,17 @@
   "work"
  ],
  "counts": {
-  "backlog": 127,
+  "backlog": 126,
   "reading": 4,
-  "testing": 3,
+  "testing": 4,
   "review": 1,
   "done": 47
  },
  "counts_by_kind": {
   "paper": {
-   "backlog": 125,
+   "backlog": 124,
    "reading": 0,
-   "testing": 3,
+   "testing": 4,
    "review": 0,
    "done": 15
   },
@@ -2422,24 +2422,6 @@
    "papers": []
   },
   {
-   "id": "2610.37170",
-   "title": "SO-101 demo scaling",
-   "status": "backlog",
-   "tags": [
-    "fetch"
-   ],
-   "added": "2026-11-02",
-   "updated": "2026-11-06",
-   "register_id": "",
-   "ws": [
-    "WS-128"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2610.38221",
    "title": "CuraEval",
    "status": "backlog",
@@ -2578,6 +2560,25 @@
    "register_id": "",
    "ws": [
     "WS-168"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2610.37170",
+   "title": "SO-101 demo scaling",
+   "status": "testing",
+   "tags": [
+    "fetch"
+   ],
+   "added": "2026-11-02",
+   "updated": "2026-11-06",
+   "register_id": "",
+   "ws": [
+    "WS-128",
+    "WS-176"
    ],
    "note": "",
    "summary": "",
