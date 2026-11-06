@@ -12,7 +12,7 @@
   "work"
  ],
  "counts": {
-  "backlog": 127,
+  "backlog": 128,
   "reading": 4,
   "testing": 2,
   "review": 1,
@@ -20,7 +20,7 @@
  },
  "counts_by_kind": {
   "paper": {
-   "backlog": 125,
+   "backlog": 126,
    "reading": 0,
    "testing": 2,
    "review": 0,
@@ -2473,6 +2473,20 @@
    "note": "",
    "summary": "",
    "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "2610.37091",
+   "title": "GAWM: A Compact Latent World-Action Model for Multi-Task Robot Manipulation",
+   "status": "backlog",
+   "tags": [],
+   "added": "2026-11-06",
+   "updated": "2026-11-06",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
    "papers": []
   },
   {
