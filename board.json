@@ -2302,24 +2302,6 @@
    "papers": []
   },
   {
-   "id": "2610.38221",
-   "title": "CuraEval",
-   "status": "backlog",
-   "tags": [
-    "fetch"
-   ],
-   "added": "2026-11-02",
-   "updated": "2026-11-03",
-   "register_id": "",
-   "ws": [
-    "WS-130"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2610.40026",
    "title": "RoboSeed: Multidimensional Evaluation of Vision-Language-Action and World-Action Models: Capability, Resource Affordability, and Research Evidence",
    "status": "backlog",
@@ -2451,6 +2433,24 @@
    "register_id": "",
    "ws": [
     "WS-128"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2610.38221",
+   "title": "CuraEval",
+   "status": "backlog",
+   "tags": [
+    "fetch"
+   ],
+   "added": "2026-11-02",
+   "updated": "2026-11-06",
+   "register_id": "",
+   "ws": [
+    "WS-130"
    ],
    "note": "",
    "summary": "",
