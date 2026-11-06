@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06",
+ "generated": "2026-11-07",
  "statuses": [
   "backlog",
   "reading",
@@ -14,17 +14,17 @@
  "counts": {
   "backlog": 126,
   "reading": 4,
-  "testing": 4,
+  "testing": 3,
   "review": 1,
-  "done": 51
+  "done": 52
  },
  "counts_by_kind": {
   "paper": {
    "backlog": 124,
    "reading": 0,
-   "testing": 4,
+   "testing": 3,
    "review": 0,
-   "done": 19
+   "done": 20
   },
   "work": {
    "backlog": 2,
@@ -2561,23 +2561,6 @@
    "papers": []
   },
   {
-   "id": "2611.01390",
-   "title": "Same Path, Less Time: Training-Free Fast Execution of Vision-Language-Action Models under Inference Latency",
-   "status": "testing",
-   "tags": [],
-   "added": "2026-11-06",
-   "updated": "2026-11-06",
-   "register_id": "",
-   "ws": [
-    "WS-181",
-    "WS-186"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2611.08156",
    "title": "La-JEPA: Compact Robot Policies with Latent World Modeling",
    "status": "testing",
@@ -3528,6 +3511,23 @@
    "note": "runs/WS-106/probes/S4/verdict.json:",
    "summary": "",
    "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "2611.01390",
+   "title": "Same Path, Less Time: Training-Free Fast Execution of Vision-Language-Action Models under Inference Latency",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-06",
+   "updated": "2026-11-07",
+   "register_id": "",
+   "ws": [
+    "WS-181",
+    "WS-186"
+   ],
+   "note": "runs/WS-186/README.md",
+   "summary": "",
+   "kind": "paper",
    "papers": []
   }
  ]
