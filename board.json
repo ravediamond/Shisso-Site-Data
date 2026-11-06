@@ -2284,24 +2284,6 @@
    "papers": []
   },
   {
-   "id": "2610.33565",
-   "title": "WorldFailBench",
-   "status": "backlog",
-   "tags": [
-    "fetch"
-   ],
-   "added": "2026-11-02",
-   "updated": "2026-11-03",
-   "register_id": "",
-   "ws": [
-    "WS-126"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2610.34717",
    "title": "VLA-HWBench",
    "status": "backlog",
@@ -2419,6 +2401,24 @@
    "note": "",
    "summary": "",
    "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "2610.33565",
+   "title": "WorldFailBench",
+   "status": "backlog",
+   "tags": [
+    "fetch"
+   ],
+   "added": "2026-11-02",
+   "updated": "2026-11-06",
+   "register_id": "",
+   "ws": [
+    "WS-126"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
    "papers": []
   },
   {
