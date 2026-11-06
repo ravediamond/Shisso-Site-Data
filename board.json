@@ -12,16 +12,16 @@
   "work"
  ],
  "counts": {
-  "backlog": 124,
-  "reading": 5,
+  "backlog": 123,
+  "reading": 6,
   "testing": 5,
   "review": 1,
   "done": 47
  },
  "counts_by_kind": {
   "paper": {
-   "backlog": 122,
-   "reading": 1,
+   "backlog": 121,
+   "reading": 2,
    "testing": 5,
    "review": 0,
    "done": 15
@@ -2386,24 +2386,6 @@
    "papers": []
   },
   {
-   "id": "2610.34717",
-   "title": "VLA-HWBench",
-   "status": "backlog",
-   "tags": [
-    "fetch"
-   ],
-   "added": "2026-11-02",
-   "updated": "2026-11-06",
-   "register_id": "",
-   "ws": [
-    "WS-131"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2610.36420",
    "title": "SO-101 Bench",
    "status": "backlog",
@@ -2491,6 +2473,25 @@
    "note": "",
    "summary": "",
    "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "2610.34717",
+   "title": "VLA-HWBench",
+   "status": "reading",
+   "tags": [
+    "fetch"
+   ],
+   "added": "2026-11-02",
+   "updated": "2026-11-06",
+   "register_id": "",
+   "ws": [
+    "WS-131",
+    "WS-179"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
    "papers": []
   },
   {
