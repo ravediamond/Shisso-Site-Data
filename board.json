@@ -12,7 +12,7 @@
   "work"
  ],
  "counts": {
-  "backlog": 123,
+  "backlog": 124,
   "reading": 4,
   "testing": 3,
   "review": 1,
@@ -20,7 +20,7 @@
  },
  "counts_by_kind": {
   "paper": {
-   "backlog": 121,
+   "backlog": 122,
    "reading": 0,
    "testing": 3,
    "review": 0,
@@ -2397,6 +2397,22 @@
    "register_id": "",
    "ws": [
     "WS-125"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2611.03622",
+   "title": "D&amp;A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models",
+   "status": "backlog",
+   "tags": [],
+   "added": "2026-11-06",
+   "updated": "2026-11-06",
+   "register_id": "",
+   "ws": [
+    "WS-180"
    ],
    "note": "",
    "summary": "",
