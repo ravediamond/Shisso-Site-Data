@@ -12,16 +12,16 @@
   "work"
  ],
  "counts": {
-  "backlog": 126,
-  "reading": 4,
+  "backlog": 125,
+  "reading": 5,
   "testing": 3,
   "review": 1,
   "done": 52
  },
  "counts_by_kind": {
   "paper": {
-   "backlog": 124,
-   "reading": 0,
+   "backlog": 123,
+   "reading": 1,
    "testing": 3,
    "review": 0,
    "done": 20
@@ -2404,22 +2404,6 @@
    "papers": []
   },
   {
-   "id": "2611.03168",
-   "title": "Rollout then Recycle: 3,718 Labelled Real-Robot Episodes from Benchmarking 7 Policies on 12 Tasks",
-   "status": "backlog",
-   "tags": [],
-   "added": "2026-11-06",
-   "updated": "2026-11-06",
-   "register_id": "",
-   "ws": [
-    "WS-183"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2611.03622",
    "title": "D&amp;A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models",
    "status": "backlog",
@@ -2521,6 +2505,23 @@
    "note": "",
    "summary": "",
    "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "2611.03168",
+   "title": "Rollout then Recycle: 3,718 Labelled Real-Robot Episodes from Benchmarking 7 Policies on 12 Tasks",
+   "status": "reading",
+   "tags": [],
+   "added": "2026-11-06",
+   "updated": "2026-11-07",
+   "register_id": "",
+   "ws": [
+    "WS-183",
+    "WS-188"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
    "papers": []
   },
   {
