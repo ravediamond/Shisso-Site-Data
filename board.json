@@ -14,17 +14,17 @@
  "counts": {
   "backlog": 125,
   "reading": 4,
-  "testing": 6,
+  "testing": 5,
   "review": 1,
-  "done": 53
+  "done": 54
  },
  "counts_by_kind": {
   "paper": {
    "backlog": 123,
    "reading": 0,
-   "testing": 6,
+   "testing": 5,
    "review": 0,
-   "done": 21
+   "done": 22
   },
   "work": {
    "backlog": 2,
@@ -2593,22 +2593,6 @@
    "papers": []
   },
   {
-   "id": "2611.05847",
-   "title": "Time-to-Goal: Learned Temporal Metrics for Long-Horizon Planning with JEPA World Models",
-   "status": "testing",
-   "tags": [],
-   "added": "2026-11-07",
-   "updated": "2026-11-07",
-   "register_id": "",
-   "ws": [
-    "WS-194"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "ws-008",
    "title": "TurboVLA + transformers 5 upstream drafts",
    "status": "review",
@@ -3575,6 +3559,22 @@
     "WS-188"
    ],
    "note": "runs/WS-188/README.md",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2611.05847",
+   "title": "Time-to-Goal: Learned Temporal Metrics for Long-Horizon Planning with JEPA World Models",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-07",
+   "updated": "2026-11-07",
+   "register_id": "",
+   "ws": [
+    "WS-194"
+   ],
+   "note": "projects/t2g/RESULT.md",
    "summary": "",
    "kind": "paper",
    "papers": []
