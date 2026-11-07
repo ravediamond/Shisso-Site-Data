@@ -14,7 +14,7 @@
  "counts": {
   "backlog": 125,
   "reading": 4,
-  "testing": 3,
+  "testing": 4,
   "review": 1,
   "done": 53
  },
@@ -22,7 +22,7 @@
   "paper": {
    "backlog": 123,
    "reading": 0,
-   "testing": 3,
+   "testing": 4,
    "review": 0,
    "done": 21
   },
@@ -2554,6 +2554,22 @@
    "register_id": "",
    "ws": [
     "WS-167"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2610.36662",
+   "title": "SWIM: Learning What Matters from Behaviors for JEPA World Models",
+   "status": "testing",
+   "tags": [],
+   "added": "2026-11-07",
+   "updated": "2026-11-07",
+   "register_id": "",
+   "ws": [
+    "WS-193"
    ],
    "note": "",
    "summary": "",
