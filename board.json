@@ -2545,22 +2545,6 @@
    "papers": []
   },
   {
-   "id": "2611.08156",
-   "title": "La-JEPA: Compact Robot Policies with Latent World Modeling",
-   "status": "testing",
-   "tags": [],
-   "added": "2026-11-06",
-   "updated": "2026-11-06",
-   "register_id": "",
-   "ws": [
-    "WS-167"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2610.35636",
    "title": "Adapt for Planning, Not just Prediction: Optimistic Test-Time World Model Adaptation",
    "status": "testing",
@@ -2586,6 +2570,22 @@
    "register_id": "",
    "ws": [
     "WS-168"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2611.08156",
+   "title": "La-JEPA: Compact Robot Policies with Latent World Modeling",
+   "status": "testing",
+   "tags": [],
+   "added": "2026-11-06",
+   "updated": "2026-11-07",
+   "register_id": "",
+   "ws": [
+    "WS-167"
    ],
    "note": "",
    "summary": "",
