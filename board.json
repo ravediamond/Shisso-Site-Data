@@ -14,7 +14,7 @@
  "counts": {
   "backlog": 125,
   "reading": 4,
-  "testing": 4,
+  "testing": 5,
   "review": 1,
   "done": 53
  },
@@ -22,7 +22,7 @@
   "paper": {
    "backlog": 123,
    "reading": 0,
-   "testing": 4,
+   "testing": 5,
    "review": 0,
    "done": 21
   },
@@ -2570,6 +2570,22 @@
    "register_id": "",
    "ws": [
     "WS-193"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2611.05847",
+   "title": "Time-to-Goal: Learned Temporal Metrics for Long-Horizon Planning with JEPA World Models",
+   "status": "testing",
+   "tags": [],
+   "added": "2026-11-07",
+   "updated": "2026-11-07",
+   "register_id": "",
+   "ws": [
+    "WS-194"
    ],
    "note": "",
    "summary": "",
