@@ -13,17 +13,17 @@
  ],
  "counts": {
   "backlog": 124,
-  "reading": 5,
+  "reading": 4,
   "testing": 4,
-  "review": 1,
+  "review": 2,
   "done": 57
  },
  "counts_by_kind": {
   "paper": {
    "backlog": 123,
-   "reading": 1,
+   "reading": 0,
    "testing": 4,
-   "review": 0,
+   "review": 1,
    "done": 23
   },
   "work": {
@@ -2492,26 +2492,6 @@
    "papers": []
   },
   {
-   "id": "2610.39302",
-   "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
-   "status": "reading",
-   "tags": [
-    "evaluation",
-    "jepa",
-    "world-model"
-   ],
-   "added": "2026-11-01",
-   "updated": "2026-11-08",
-   "register_id": "",
-   "ws": [
-    "WS-107"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2610.39451",
    "title": "Smooth Action Chunking Via Movement-Primitive Representations for Imitation Learning",
    "status": "testing",
@@ -2594,6 +2574,26 @@
    "note": "",
    "summary": "",
    "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "2610.39302",
+   "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+   "status": "review",
+   "tags": [
+    "evaluation",
+    "jepa",
+    "world-model"
+   ],
+   "added": "2026-11-01",
+   "updated": "2026-11-08",
+   "register_id": "",
+   "ws": [
+    "WS-107"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
    "papers": []
   },
   {
