@@ -13,10 +13,10 @@
  ],
  "counts": {
   "backlog": 124,
-  "reading": 5,
+  "reading": 4,
   "testing": 4,
   "review": 1,
-  "done": 56
+  "done": 57
  },
  "counts_by_kind": {
   "paper": {
@@ -28,10 +28,10 @@
   },
   "work": {
    "backlog": 1,
-   "reading": 5,
+   "reading": 4,
    "testing": 0,
    "review": 1,
-   "done": 33
+   "done": 34
   }
  },
  "cards": [
@@ -2492,22 +2492,6 @@
    "papers": []
   },
   {
-   "id": "ws-110",
-   "title": "Paper feasibility: \"Distilling V-JEPA 2.1 into an Orin-sized student\" — do a big pretrained predictor's latents carry anything beyond kinematics after the shrink on 653 episodes, at edge latency (memo only)",
-   "status": "reading",
-   "tags": [],
-   "added": "2026-11-03",
-   "updated": "2026-11-07",
-   "register_id": "",
-   "ws": [
-    "WS-110"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "work",
-   "papers": []
-  },
-  {
    "id": "2610.39451",
    "title": "Smooth Action Chunking Via Movement-Primitive Representations for Imitation Learning",
    "status": "testing",
@@ -3591,6 +3575,22 @@
     "WS-092"
    ],
    "note": "lerobot-contrib/pr-proposals-2026-11-01/pr-5030/review.md",
+   "summary": "",
+   "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "ws-110",
+   "title": "Paper feasibility: \"Distilling V-JEPA 2.1 into an Orin-sized student\" — do a big pretrained predictor's latents carry anything beyond kinematics after the shrink on 653 episodes, at edge latency (memo only)",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-03",
+   "updated": "2026-11-08",
+   "register_id": "",
+   "ws": [
+    "WS-110"
+   ],
+   "note": "projects/jepa-distill-edge/results/d1/b1.json",
    "summary": "",
    "kind": "work",
    "papers": []
