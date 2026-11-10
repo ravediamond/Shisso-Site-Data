@@ -14,17 +14,17 @@
  "counts": {
   "backlog": 123,
   "reading": 4,
-  "testing": 5,
+  "testing": 4,
   "review": 2,
-  "done": 57
+  "done": 58
  },
  "counts_by_kind": {
   "paper": {
    "backlog": 122,
    "reading": 0,
-   "testing": 5,
+   "testing": 4,
    "review": 1,
-   "done": 23
+   "done": 24
   },
   "work": {
    "backlog": 1,
@@ -2495,22 +2495,6 @@
    "papers": []
   },
   {
-   "id": "2610.35636",
-   "title": "Adapt for Planning, Not just Prediction: Optimistic Test-Time World Model Adaptation",
-   "status": "testing",
-   "tags": [],
-   "added": "2026-11-07",
-   "updated": "2026-11-07",
-   "register_id": "",
-   "ws": [
-    "WS-196"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2610.37091",
    "title": "GAWM: A Compact Latent World-Action Model for Multi-Task Robot Manipulation",
    "status": "testing",
@@ -3614,6 +3598,22 @@
    "note": "projects/jepa-distill-edge/results/d1/b1.json",
    "summary": "",
    "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "2610.35636",
+   "title": "Adapt for Planning, Not just Prediction: Optimistic Test-Time World Model Adaptation",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-07",
+   "updated": "2026-11-10",
+   "register_id": "",
+   "ws": [
+    "WS-196"
+   ],
+   "note": "projects/optta/results/h3.json",
+   "summary": "",
+   "kind": "paper",
    "papers": []
   }
  ]
