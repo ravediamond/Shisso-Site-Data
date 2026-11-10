@@ -12,17 +12,17 @@
   "work"
  ],
  "counts": {
-  "backlog": 124,
+  "backlog": 123,
   "reading": 4,
-  "testing": 4,
+  "testing": 5,
   "review": 2,
   "done": 57
  },
  "counts_by_kind": {
   "paper": {
-   "backlog": 123,
+   "backlog": 122,
    "reading": 0,
-   "testing": 4,
+   "testing": 5,
    "review": 1,
    "done": 23
   },
@@ -2370,24 +2370,6 @@
    "papers": []
   },
   {
-   "id": "2610.36420",
-   "title": "SO-101 Bench",
-   "status": "backlog",
-   "tags": [
-    "fetch"
-   ],
-   "added": "2026-11-02",
-   "updated": "2026-11-06",
-   "register_id": "",
-   "ws": [
-    "WS-125"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2611.03622",
    "title": "D&amp;A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models",
    "status": "backlog",
@@ -2554,6 +2536,25 @@
    "register_id": "",
    "ws": [
     "WS-167"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2610.36420",
+   "title": "SO-101 Bench",
+   "status": "testing",
+   "tags": [
+    "fetch"
+   ],
+   "added": "2026-11-02",
+   "updated": "2026-11-10",
+   "register_id": "",
+   "ws": [
+    "WS-125",
+    "WS-169"
    ],
    "note": "",
    "summary": "",
