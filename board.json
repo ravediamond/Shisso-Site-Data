@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10",
+ "generated": "2026-11-11",
  "statuses": [
   "backlog",
   "reading",
@@ -2495,22 +2495,6 @@
    "papers": []
   },
   {
-   "id": "2610.37091",
-   "title": "GAWM: A Compact Latent World-Action Model for Multi-Task Robot Manipulation",
-   "status": "testing",
-   "tags": [],
-   "added": "2026-11-06",
-   "updated": "2026-11-07",
-   "register_id": "",
-   "ws": [
-    "WS-168"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2611.08156",
    "title": "La-JEPA: Compact Robot Policies with Latent World Modeling",
    "status": "testing",
@@ -2539,6 +2523,22 @@
    "ws": [
     "WS-125",
     "WS-169"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2610.37091",
+   "title": "GAWM: A Compact Latent World-Action Model for Multi-Task Robot Manipulation",
+   "status": "testing",
+   "tags": [],
+   "added": "2026-11-06",
+   "updated": "2026-11-11",
+   "register_id": "",
+   "ws": [
+    "WS-168"
    ],
    "note": "",
    "summary": "",
