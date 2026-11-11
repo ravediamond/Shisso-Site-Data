@@ -14,16 +14,16 @@
  "counts": {
   "backlog": 123,
   "reading": 4,
-  "testing": 4,
-  "review": 1,
+  "testing": 3,
+  "review": 2,
   "done": 59
  },
  "counts_by_kind": {
   "paper": {
    "backlog": 122,
    "reading": 0,
-   "testing": 4,
-   "review": 0,
+   "testing": 3,
+   "review": 1,
    "done": 25
   },
   "work": {
@@ -2530,22 +2530,6 @@
    "papers": []
   },
   {
-   "id": "2610.37091",
-   "title": "GAWM: A Compact Latent World-Action Model for Multi-Task Robot Manipulation",
-   "status": "testing",
-   "tags": [],
-   "added": "2026-11-06",
-   "updated": "2026-11-11",
-   "register_id": "",
-   "ws": [
-    "WS-168"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "ws-008",
    "title": "TurboVLA + transformers 5 upstream drafts",
    "status": "review",
@@ -2559,6 +2543,22 @@
    "note": "",
    "summary": "",
    "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "2610.37091",
+   "title": "GAWM: A Compact Latent World-Action Model for Multi-Task Robot Manipulation",
+   "status": "review",
+   "tags": [],
+   "added": "2026-11-06",
+   "updated": "2026-11-11",
+   "register_id": "",
+   "ws": [
+    "WS-168"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
    "papers": []
   },
   {
