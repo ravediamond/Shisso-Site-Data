@@ -12,7 +12,7 @@
   "work"
  ],
  "counts": {
-  "backlog": 135,
+  "backlog": 136,
   "reading": 5,
   "testing": 3,
   "review": 2,
@@ -20,7 +20,7 @@
  },
  "counts_by_kind": {
   "paper": {
-   "backlog": 134,
+   "backlog": 135,
    "reading": 1,
    "testing": 3,
    "review": 1,
@@ -2564,6 +2564,22 @@
    "updated": "2026-11-12",
    "register_id": "",
    "ws": [],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2611.06710",
+   "title": "Where Is VLA Inference Time Spent? Bottlenecks and Optimization Interactions Across GPUs",
+   "status": "backlog",
+   "tags": [],
+   "added": "2026-11-12",
+   "updated": "2026-11-12",
+   "register_id": "",
+   "ws": [
+    "WS-204"
+   ],
    "note": "",
    "summary": "",
    "kind": "paper",
