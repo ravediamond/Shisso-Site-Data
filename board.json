@@ -12,7 +12,7 @@
   "work"
  ],
  "counts": {
-  "backlog": 125,
+  "backlog": 126,
   "reading": 4,
   "testing": 3,
   "review": 2,
@@ -20,7 +20,7 @@
  },
  "counts_by_kind": {
   "paper": {
-   "backlog": 124,
+   "backlog": 125,
    "reading": 0,
    "testing": 3,
    "review": 1,
@@ -2404,6 +2404,20 @@
   {
    "id": "2606.29898",
    "title": "Critical Interval MSE: Toward Reliable Offline Validation for Robot Manipulation Policies",
+   "status": "backlog",
+   "tags": [],
+   "added": "2026-11-12",
+   "updated": "2026-11-12",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2609.03611",
+   "title": "FailBench: How Reliable are VLMs at Judging Robot Task Success?",
    "status": "backlog",
    "tags": [],
    "added": "2026-11-12",
