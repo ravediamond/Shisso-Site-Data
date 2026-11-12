@@ -12,7 +12,7 @@
   "work"
  ],
  "counts": {
-  "backlog": 135,
+  "backlog": 136,
   "reading": 4,
   "testing": 3,
   "review": 2,
@@ -20,7 +20,7 @@
  },
  "counts_by_kind": {
   "paper": {
-   "backlog": 134,
+   "backlog": 135,
    "reading": 0,
    "testing": 3,
    "review": 1,
@@ -2396,6 +2396,20 @@
    "ws": [
     "WS-182"
    ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2606.16690",
+   "title": "PATCH: Action-Chunk-Conditioned Latent Patch Innovation Monitoring for Robot Manipulation",
+   "status": "backlog",
+   "tags": [],
+   "added": "2026-11-12",
+   "updated": "2026-11-12",
+   "register_id": "",
+   "ws": [],
    "note": "",
    "summary": "",
    "kind": "paper",
