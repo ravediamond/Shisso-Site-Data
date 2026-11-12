@@ -12,7 +12,7 @@
   "work"
  ],
  "counts": {
-  "backlog": 133,
+  "backlog": 134,
   "reading": 4,
   "testing": 3,
   "review": 2,
@@ -20,7 +20,7 @@
  },
  "counts_by_kind": {
   "paper": {
-   "backlog": 132,
+   "backlog": 133,
    "reading": 0,
    "testing": 3,
    "review": 1,
@@ -2446,6 +2446,20 @@
   {
    "id": "2607.12659",
    "title": "EagleVLA: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference",
+   "status": "backlog",
+   "tags": [],
+   "added": "2026-11-12",
+   "updated": "2026-11-12",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2608.15938",
+   "title": "Revisiting Open-Loop Execution in Robotics: Toward Reactive, Higher-Performing Policies",
    "status": "backlog",
    "tags": [],
    "added": "2026-11-12",
