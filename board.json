@@ -12,7 +12,7 @@
   "work"
  ],
  "counts": {
-  "backlog": 134,
+  "backlog": 135,
   "reading": 4,
   "testing": 3,
   "review": 2,
@@ -20,7 +20,7 @@
  },
  "counts_by_kind": {
   "paper": {
-   "backlog": 133,
+   "backlog": 134,
    "reading": 0,
    "testing": 3,
    "review": 1,
@@ -2404,6 +2404,20 @@
   {
    "id": "2606.21386",
    "title": "VLA-FAIL: Efficient Task Failure Detection for Finetuned Vision-Language-Action Models",
+   "status": "backlog",
+   "tags": [],
+   "added": "2026-11-12",
+   "updated": "2026-11-12",
+   "register_id": "",
+   "ws": [],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2606.22027",
+   "title": "RARM: Confidence-Gated Progress Reward Modeling for RL in Manipulation",
    "status": "backlog",
    "tags": [],
    "added": "2026-11-12",
