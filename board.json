@@ -12,16 +12,16 @@
   "work"
  ],
  "counts": {
-  "backlog": 133,
-  "reading": 6,
+  "backlog": 132,
+  "reading": 7,
   "testing": 3,
   "review": 2,
   "done": 61
  },
  "counts_by_kind": {
   "paper": {
-   "backlog": 132,
-   "reading": 2,
+   "backlog": 131,
+   "reading": 3,
    "testing": 3,
    "review": 1,
    "done": 27
@@ -2472,20 +2472,6 @@
    "papers": []
   },
   {
-   "id": "2608.15938",
-   "title": "Revisiting Open-Loop Execution in Robotics: Toward Reactive, Higher-Performing Policies",
-   "status": "backlog",
-   "tags": [],
-   "added": "2026-11-12",
-   "updated": "2026-11-12",
-   "register_id": "",
-   "ws": [],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2609.00908",
    "title": "Knowing When to Stop: Adaptive Action Chunking via Internal Cross-Attention Dynamics in VLAs",
    "status": "backlog",
@@ -2625,6 +2611,22 @@
    "register_id": "",
    "ws": [
     "WS-246"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2608.15938",
+   "title": "Revisiting Open-Loop Execution in Robotics: Toward Reactive, Higher-Performing Policies",
+   "status": "reading",
+   "tags": [],
+   "added": "2026-11-12",
+   "updated": "2026-11-13",
+   "register_id": "",
+   "ws": [
+    "WS-254"
    ],
    "note": "",
    "summary": "",
