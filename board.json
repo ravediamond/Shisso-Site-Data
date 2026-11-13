@@ -13,18 +13,18 @@
  ],
  "counts": {
   "backlog": 133,
-  "reading": 7,
+  "reading": 6,
   "testing": 3,
   "review": 2,
-  "done": 60
+  "done": 61
  },
  "counts_by_kind": {
   "paper": {
    "backlog": 132,
-   "reading": 3,
+   "reading": 2,
    "testing": 3,
    "review": 1,
-   "done": 26
+   "done": 27
   },
   "work": {
    "backlog": 1,
@@ -2632,22 +2632,6 @@
    "papers": []
   },
   {
-   "id": "2610.22556",
-   "title": "When Plans Change, Remember: Replanning-Guided Visual Memory for Vision-Language-Action Models",
-   "status": "reading",
-   "tags": [],
-   "added": "2026-11-12",
-   "updated": "2026-11-13",
-   "register_id": "",
-   "ws": [
-    "WS-249"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2611.00283",
    "title": "Does Validation Loss Predict Real-Robot Success? Evidence from Four Imitation-Learning Policies on a Low-Cost Arm",
    "status": "reading",
@@ -3818,6 +3802,22 @@
     "WS-245"
    ],
    "note": "runs/WS-245/RESULT.md",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2610.22556",
+   "title": "When Plans Change, Remember: Replanning-Guided Visual Memory for Vision-Language-Action Models",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-12",
+   "updated": "2026-11-13",
+   "register_id": "",
+   "ws": [
+    "WS-249"
+   ],
+   "note": "projects/replanmem/README.md",
    "summary": "",
    "kind": "paper",
    "papers": []
