@@ -12,16 +12,16 @@
   "work"
  ],
  "counts": {
-  "backlog": 136,
-  "reading": 5,
+  "backlog": 135,
+  "reading": 6,
   "testing": 3,
   "review": 2,
   "done": 59
  },
  "counts_by_kind": {
   "paper": {
-   "backlog": 135,
-   "reading": 1,
+   "backlog": 134,
+   "reading": 2,
    "testing": 3,
    "review": 1,
    "done": 25
@@ -2514,20 +2514,6 @@
    "papers": []
   },
   {
-   "id": "2609.03611",
-   "title": "FailBench: How Reliable are VLMs at Judging Robot Task Success?",
-   "status": "backlog",
-   "tags": [],
-   "added": "2026-11-12",
-   "updated": "2026-11-12",
-   "register_id": "",
-   "ws": [],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2610.09134",
    "title": "World Models Dream of Success: Diagnosing and Repairing Failure Insensitivity in Robot World Models",
    "status": "backlog",
@@ -2655,6 +2641,22 @@
    "note": "",
    "summary": "",
    "kind": "work",
+   "papers": []
+  },
+  {
+   "id": "2609.03611",
+   "title": "FailBench: How Reliable are VLMs at Judging Robot Task Success?",
+   "status": "reading",
+   "tags": [],
+   "added": "2026-11-12",
+   "updated": "2026-11-13",
+   "register_id": "",
+   "ws": [
+    "WS-245"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
    "papers": []
   },
   {
