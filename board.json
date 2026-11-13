@@ -12,16 +12,16 @@
   "work"
  ],
  "counts": {
-  "backlog": 134,
-  "reading": 7,
+  "backlog": 133,
+  "reading": 8,
   "testing": 3,
   "review": 2,
   "done": 59
  },
  "counts_by_kind": {
   "paper": {
-   "backlog": 133,
-   "reading": 3,
+   "backlog": 132,
+   "reading": 4,
    "testing": 3,
    "review": 1,
    "done": 25
@@ -2528,20 +2528,6 @@
    "papers": []
   },
   {
-   "id": "2610.22556",
-   "title": "When Plans Change, Remember: Replanning-Guided Visual Memory for Vision-Language-Action Models",
-   "status": "backlog",
-   "tags": [],
-   "added": "2026-11-12",
-   "updated": "2026-11-12",
-   "register_id": "",
-   "ws": [],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2611.06710",
    "title": "Where Is VLA Inference Time Spent? Bottlenecks and Optimization Interactions Across GPUs",
    "status": "backlog",
@@ -2655,6 +2641,22 @@
    "register_id": "",
    "ws": [
     "WS-245"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2610.22556",
+   "title": "When Plans Change, Remember: Replanning-Guided Visual Memory for Vision-Language-Action Models",
+   "status": "reading",
+   "tags": [],
+   "added": "2026-11-12",
+   "updated": "2026-11-13",
+   "register_id": "",
+   "ws": [
+    "WS-249"
    ],
    "note": "",
    "summary": "",
