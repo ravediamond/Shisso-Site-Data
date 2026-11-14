@@ -2532,22 +2532,6 @@
    "papers": []
   },
   {
-   "id": "2608.15938",
-   "title": "Revisiting Open-Loop Execution in Robotics: Toward Reactive, Higher-Performing Policies",
-   "status": "reading",
-   "tags": [],
-   "added": "2026-11-12",
-   "updated": "2026-11-13",
-   "register_id": "",
-   "ws": [
-    "WS-254"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2611.00283",
    "title": "Does Validation Loss Predict Real-Robot Success? Evidence from Four Imitation-Learning Policies on a Low-Cost Arm",
    "status": "reading",
@@ -2573,6 +2557,22 @@
    "register_id": "",
    "ws": [
     "WS-247"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2608.15938",
+   "title": "Revisiting Open-Loop Execution in Robotics: Toward Reactive, Higher-Performing Policies",
+   "status": "reading",
+   "tags": [],
+   "added": "2026-11-12",
+   "updated": "2026-11-14",
+   "register_id": "",
+   "ws": [
+    "WS-254"
    ],
    "note": "",
    "summary": "",
