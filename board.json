@@ -12,16 +12,16 @@
   "work"
  ],
  "counts": {
-  "backlog": 129,
-  "reading": 7,
+  "backlog": 128,
+  "reading": 8,
   "testing": 3,
   "review": 3,
   "done": 63
  },
  "counts_by_kind": {
   "paper": {
-   "backlog": 128,
-   "reading": 3,
+   "backlog": 127,
+   "reading": 4,
    "testing": 3,
    "review": 2,
    "done": 29
@@ -2444,20 +2444,6 @@
    "papers": []
   },
   {
-   "id": "2609.00908",
-   "title": "Knowing When to Stop: Adaptive Action Chunking via Internal Cross-Attention Dynamics in VLAs",
-   "status": "backlog",
-   "tags": [],
-   "added": "2026-11-12",
-   "updated": "2026-11-12",
-   "register_id": "",
-   "ws": [],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2610.09134",
    "title": "World Models Dream of Success: Diagnosing and Repairing Failure Insensitivity in Robot World Models",
    "status": "backlog",
@@ -2601,6 +2587,22 @@
    "register_id": "",
    "ws": [
     "WS-247"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2609.00908",
+   "title": "Knowing When to Stop: Adaptive Action Chunking via Internal Cross-Attention Dynamics in VLAs",
+   "status": "reading",
+   "tags": [],
+   "added": "2026-11-12",
+   "updated": "2026-11-14",
+   "register_id": "",
+   "ws": [
+    "WS-250"
    ],
    "note": "",
    "summary": "",
