@@ -13,18 +13,18 @@
  ],
  "counts": {
   "backlog": 131,
-  "reading": 8,
+  "reading": 7,
   "testing": 3,
   "review": 2,
-  "done": 61
+  "done": 62
  },
  "counts_by_kind": {
   "paper": {
    "backlog": 130,
-   "reading": 4,
+   "reading": 3,
    "testing": 3,
    "review": 1,
-   "done": 27
+   "done": 28
   },
   "work": {
    "backlog": 1,
@@ -2636,22 +2636,6 @@
    "papers": []
   },
   {
-   "id": "2606.21386",
-   "title": "VLA-FAIL: Efficient Task Failure Detection for Finetuned Vision-Language-Action Models",
-   "status": "reading",
-   "tags": [],
-   "added": "2026-11-12",
-   "updated": "2026-11-14",
-   "register_id": "",
-   "ws": [
-    "WS-246"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2610.39451",
    "title": "Smooth Action Chunking Via Movement-Primitive Representations for Imitation Learning",
    "status": "testing",
@@ -3822,6 +3806,22 @@
     "WS-249"
    ],
    "note": "projects/replanmem/README.md",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2606.21386",
+   "title": "VLA-FAIL: Efficient Task Failure Detection for Finetuned Vision-Language-Action Models",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-12",
+   "updated": "2026-11-14",
+   "register_id": "",
+   "ws": [
+    "WS-246"
+   ],
+   "note": "projects/vla-fail/RESULT.md",
    "summary": "",
    "kind": "paper",
    "papers": []
