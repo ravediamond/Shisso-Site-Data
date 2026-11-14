@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13",
+ "generated": "2026-11-14",
  "statuses": [
   "backlog",
   "reading",
@@ -2588,22 +2588,6 @@
    "papers": []
   },
   {
-   "id": "2606.21386",
-   "title": "VLA-FAIL: Efficient Task Failure Detection for Finetuned Vision-Language-Action Models",
-   "status": "reading",
-   "tags": [],
-   "added": "2026-11-12",
-   "updated": "2026-11-13",
-   "register_id": "",
-   "ws": [
-    "WS-246"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2606.23085",
    "title": "Foresight: Failure Detection for Long-Horizon Robotic Manipulation with Action-Conditioned World Model Latents",
    "status": "reading",
@@ -2645,6 +2629,22 @@
    "register_id": "",
    "ws": [
     "WS-243"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2606.21386",
+   "title": "VLA-FAIL: Efficient Task Failure Detection for Finetuned Vision-Language-Action Models",
+   "status": "reading",
+   "tags": [],
+   "added": "2026-11-12",
+   "updated": "2026-11-14",
+   "register_id": "",
+   "ws": [
+    "WS-246"
    ],
    "note": "",
    "summary": "",
