@@ -2560,22 +2560,6 @@
    "papers": []
   },
   {
-   "id": "2606.23085",
-   "title": "Foresight: Failure Detection for Long-Horizon Robotic Manipulation with Action-Conditioned World Model Latents",
-   "status": "reading",
-   "tags": [],
-   "added": "2026-11-12",
-   "updated": "2026-11-13",
-   "register_id": "",
-   "ws": [
-    "WS-251"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2608.15938",
    "title": "Revisiting Open-Loop Execution in Robotics: Toward Reactive, Higher-Performing Policies",
    "status": "reading",
@@ -2601,6 +2585,22 @@
    "register_id": "",
    "ws": [
     "WS-243"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2606.23085",
+   "title": "Foresight: Failure Detection for Long-Horizon Robotic Manipulation with Action-Conditioned World Model Latents",
+   "status": "reading",
+   "tags": [],
+   "added": "2026-11-12",
+   "updated": "2026-11-14",
+   "register_id": "",
+   "ws": [
+    "WS-251"
    ],
    "note": "",
    "summary": "",
