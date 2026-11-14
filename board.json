@@ -12,16 +12,16 @@
   "work"
  ],
  "counts": {
-  "backlog": 130,
-  "reading": 8,
+  "backlog": 129,
+  "reading": 9,
   "testing": 3,
   "review": 2,
   "done": 62
  },
  "counts_by_kind": {
   "paper": {
-   "backlog": 129,
-   "reading": 4,
+   "backlog": 128,
+   "reading": 5,
    "testing": 3,
    "review": 1,
    "done": 28
@@ -2472,20 +2472,6 @@
    "papers": []
   },
   {
-   "id": "2610.14997",
-   "title": "Barrier-Constrained Guidance For Real-time Asynchronous VLA Execution",
-   "status": "backlog",
-   "tags": [],
-   "added": "2026-11-12",
-   "updated": "2026-11-12",
-   "register_id": "",
-   "ws": [],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2611.06710",
    "title": "Where Is VLA Inference Time Spent? Bottlenecks and Optimization Interactions Across GPUs",
    "status": "backlog",
@@ -2631,6 +2617,22 @@
    "register_id": "",
    "ws": [
     "WS-247"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2610.14997",
+   "title": "Barrier-Constrained Guidance For Real-time Asynchronous VLA Execution",
+   "status": "reading",
+   "tags": [],
+   "added": "2026-11-12",
+   "updated": "2026-11-14",
+   "register_id": "",
+   "ws": [
+    "WS-253"
    ],
    "note": "",
    "summary": "",
