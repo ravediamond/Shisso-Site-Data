@@ -13,18 +13,18 @@
  ],
  "counts": {
   "backlog": 127,
-  "reading": 7,
+  "reading": 6,
   "testing": 3,
   "review": 3,
-  "done": 65
+  "done": 66
  },
  "counts_by_kind": {
   "paper": {
    "backlog": 126,
-   "reading": 3,
+   "reading": 2,
    "testing": 3,
    "review": 2,
-   "done": 31
+   "done": 32
   },
   "work": {
    "backlog": 1,
@@ -2548,22 +2548,6 @@
    "papers": []
   },
   {
-   "id": "2607.12659",
-   "title": "EagleVLA: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference",
-   "status": "reading",
-   "tags": [],
-   "added": "2026-11-12",
-   "updated": "2026-11-15",
-   "register_id": "",
-   "ws": [
-    "WS-247"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2608.15938",
    "title": "Revisiting Open-Loop Execution in Robotics: Toward Reactive, Higher-Performing Policies",
    "status": "reading",
@@ -3830,6 +3814,22 @@
     "WS-253"
    ],
    "note": "projects/freebar/README.md",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2607.12659",
+   "title": "EagleVLA: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference",
+   "status": "done",
+   "tags": [],
+   "added": "2026-11-12",
+   "updated": "2026-11-15",
+   "register_id": "",
+   "ws": [
+    "WS-247"
+   ],
+   "note": "projects/jetson-pi/RESULT.md",
    "summary": "",
    "kind": "paper",
    "papers": []
