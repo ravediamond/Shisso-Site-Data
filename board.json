@@ -12,7 +12,7 @@
   "work"
  ],
  "counts": {
-  "backlog": 122,
+  "backlog": 121,
   "reading": 4,
   "testing": 0,
   "review": 1,
@@ -27,7 +27,7 @@
    "done": 35
   },
   "work": {
-   "backlog": 1,
+   "backlog": 0,
    "reading": 4,
    "testing": 0,
    "review": 1,
@@ -2209,22 +2209,6 @@
    "note": "",
    "summary": "",
    "kind": "paper",
-   "papers": []
-  },
-  {
-   "id": "ws-080",
-   "title": "Paper 4 (own-predictor monitor): no-go for now — the remaining 40 sealed §29 layouts on a free arm day, then revisit",
-   "status": "backlog",
-   "tags": [],
-   "added": "2026-11-03",
-   "updated": "2026-11-03",
-   "register_id": "",
-   "ws": [
-    "WS-080"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "work",
    "papers": []
   },
   {
