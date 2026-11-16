@@ -12,7 +12,7 @@
   "work"
  ],
  "counts": {
-  "backlog": 127,
+  "backlog": 122,
   "reading": 4,
   "testing": 0,
   "review": 1,
@@ -20,7 +20,7 @@
  },
  "counts_by_kind": {
   "paper": {
-   "backlog": 126,
+   "backlog": 121,
    "reading": 0,
    "testing": 0,
    "review": 0,
@@ -105,26 +105,6 @@
     "reinforcement-learning",
     "safety",
     "vla"
-   ],
-   "added": "2026-10-31",
-   "updated": "2026-11-02",
-   "register_id": "",
-   "ws": [],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
-   "id": "2506.09985",
-   "title": "V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning",
-   "status": "backlog",
-   "tags": [
-    "evaluation",
-    "jepa",
-    "manipulation",
-    "planning",
-    "world-model"
    ],
    "added": "2026-10-31",
    "updated": "2026-11-02",
@@ -475,26 +455,6 @@
     "manipulation",
     "safety",
     "vlm"
-   ],
-   "added": "2026-10-31",
-   "updated": "2026-11-02",
-   "register_id": "",
-   "ws": [],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
-   "id": "2603.14482",
-   "title": "V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning",
-   "status": "backlog",
-   "tags": [
-    "jepa",
-    "manipulation",
-    "navigation",
-    "representation-learning",
-    "world-model"
    ],
    "added": "2026-10-31",
    "updated": "2026-11-02",
@@ -1183,22 +1143,6 @@
    "papers": []
   },
   {
-   "id": "2608.06799",
-   "title": "PSG-JEPA + SA/IDM",
-   "status": "backlog",
-   "tags": [
-    "scheduled"
-   ],
-   "added": "2026-11-02",
-   "updated": "2026-11-02",
-   "register_id": "",
-   "ws": [],
-   "note": "",
-   "summary": "Planned test: §7 three-arm grounding",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2608.09381",
    "title": "JEPA-WAM: Learning Vision-Language-Action Policies with Joint-Embedding World Modeling",
    "status": "backlog",
@@ -1372,22 +1316,6 @@
    "ws": [],
    "note": "",
    "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
-   "id": "2609.03565",
-   "title": "PSG-JEPA + SA/IDM",
-   "status": "backlog",
-   "tags": [
-    "scheduled"
-   ],
-   "added": "2026-11-02",
-   "updated": "2026-11-02",
-   "register_id": "",
-   "ws": [],
-   "note": "",
-   "summary": "Planned test: §7 three-arm grounding",
    "kind": "paper",
    "papers": []
   },
@@ -1770,22 +1698,6 @@
    "ws": [],
    "note": "",
    "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
-   "id": "2609.39235",
-   "title": "Planning Limits of JEPA",
-   "status": "backlog",
-   "tags": [
-    "scheduled"
-   ],
-   "added": "2026-11-02",
-   "updated": "2026-11-02",
-   "register_id": "",
-   "ws": [],
-   "note": "",
-   "summary": "Planned test: §19 VLA + WM selection; ranking test on the 69 rollouts",
    "kind": "paper",
    "papers": []
   },
