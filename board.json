@@ -14,7 +14,7 @@
  "counts": {
   "backlog": 124,
   "reading": 4,
-  "testing": 3,
+  "testing": 2,
   "review": 2,
   "done": 69
  },
@@ -22,7 +22,7 @@
   "paper": {
    "backlog": 123,
    "reading": 0,
-   "testing": 3,
+   "testing": 2,
    "review": 1,
    "done": 35
   },
@@ -2520,25 +2520,6 @@
    "register_id": "",
    "ws": [
     "WS-167"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
-   "id": "2610.36420",
-   "title": "SO-101 Bench",
-   "status": "testing",
-   "tags": [
-    "fetch"
-   ],
-   "added": "2026-11-02",
-   "updated": "2026-11-10",
-   "register_id": "",
-   "ws": [
-    "WS-125",
-    "WS-169"
    ],
    "note": "",
    "summary": "",
