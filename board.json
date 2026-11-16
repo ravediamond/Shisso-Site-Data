@@ -14,7 +14,7 @@
  "counts": {
   "backlog": 124,
   "reading": 4,
-  "testing": 1,
+  "testing": 0,
   "review": 1,
   "done": 69
  },
@@ -22,7 +22,7 @@
   "paper": {
    "backlog": 123,
    "reading": 0,
-   "testing": 1,
+   "testing": 0,
    "review": 0,
    "done": 35
   },
@@ -2487,27 +2487,6 @@
    "note": "",
    "summary": "",
    "kind": "work",
-   "papers": []
-  },
-  {
-   "id": "2610.39451",
-   "title": "Smooth Action Chunking Via Movement-Primitive Representations for Imitation Learning",
-   "status": "testing",
-   "tags": [
-    "action-chunking",
-    "bimanual",
-    "imitation-learning",
-    "manipulation"
-   ],
-   "added": "2026-10-31",
-   "updated": "2026-11-04",
-   "register_id": "",
-   "ws": [
-    "WS-064"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
    "papers": []
   },
   {
