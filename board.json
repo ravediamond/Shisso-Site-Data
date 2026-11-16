@@ -12,7 +12,7 @@
   "work"
  ],
  "counts": {
-  "backlog": 126,
+  "backlog": 127,
   "reading": 4,
   "testing": 0,
   "review": 1,
@@ -20,7 +20,7 @@
  },
  "counts_by_kind": {
   "paper": {
-   "backlog": 125,
+   "backlog": 126,
    "reading": 0,
    "testing": 0,
    "review": 0,
@@ -2427,6 +2427,22 @@
    "register_id": "",
    "ws": [
     "WS-283"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2611.14488",
+   "title": "Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies",
+   "status": "backlog",
+   "tags": [],
+   "added": "2026-11-16",
+   "updated": "2026-11-16",
+   "register_id": "",
+   "ws": [
+    "WS-286"
    ],
    "note": "",
    "summary": "",
