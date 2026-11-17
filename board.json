@@ -2330,22 +2330,6 @@
    "papers": []
   },
   {
-   "id": "2611.15082",
-   "title": "Prediction or Persistence? What Future-Prediction Scores Miss About World Models",
-   "status": "backlog",
-   "tags": [],
-   "added": "2026-11-16",
-   "updated": "2026-11-16",
-   "register_id": "",
-   "ws": [
-    "WS-284"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2611.13160",
    "title": "How Much of Your VLA Is kNN",
    "status": "backlog",
@@ -2355,6 +2339,22 @@
    "register_id": "",
    "ws": [
     "WS-283"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2611.15082",
+   "title": "Prediction or Persistence? What Future-Prediction Scores Miss About World Models",
+   "status": "backlog",
+   "tags": [],
+   "added": "2026-11-16",
+   "updated": "2026-11-17",
+   "register_id": "",
+   "ws": [
+    "WS-284"
    ],
    "note": "",
    "summary": "",
