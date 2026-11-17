@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17",
+ "generated": "2026-11-18",
  "statuses": [
   "backlog",
   "reading",
@@ -2314,22 +2314,6 @@
    "papers": []
   },
   {
-   "id": "2611.14488",
-   "title": "Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies",
-   "status": "backlog",
-   "tags": [],
-   "added": "2026-11-16",
-   "updated": "2026-11-16",
-   "register_id": "",
-   "ws": [
-    "WS-286"
-   ],
-   "note": "",
-   "summary": "",
-   "kind": "paper",
-   "papers": []
-  },
-  {
    "id": "2611.13160",
    "title": "How Much of Your VLA Is kNN",
    "status": "backlog",
@@ -2371,6 +2355,22 @@
    "register_id": "",
    "ws": [
     "WS-292"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2611.14488",
+   "title": "Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies",
+   "status": "backlog",
+   "tags": [],
+   "added": "2026-11-16",
+   "updated": "2026-11-18",
+   "register_id": "",
+   "ws": [
+    "WS-286"
    ],
    "note": "",
    "summary": "",
