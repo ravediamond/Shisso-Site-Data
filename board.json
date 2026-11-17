@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16",
+ "generated": "2026-11-17",
  "statuses": [
   "backlog",
   "reading",
@@ -12,7 +12,7 @@
   "work"
  ],
  "counts": {
-  "backlog": 121,
+  "backlog": 122,
   "reading": 4,
   "testing": 0,
   "review": 1,
@@ -20,7 +20,7 @@
  },
  "counts_by_kind": {
   "paper": {
-   "backlog": 121,
+   "backlog": 122,
    "reading": 0,
    "testing": 0,
    "review": 0,
@@ -2355,6 +2355,22 @@
    "register_id": "",
    "ws": [
     "WS-284"
+   ],
+   "note": "",
+   "summary": "",
+   "kind": "paper",
+   "papers": []
+  },
+  {
+   "id": "2611.18359",
+   "title": "Envisioning Agentic Robotics: A New Era of Robotic Systems",
+   "status": "backlog",
+   "tags": [],
+   "added": "2026-11-17",
+   "updated": "2026-11-17",
+   "register_id": "",
+   "ws": [
+    "WS-292"
    ],
    "note": "",
    "summary": "",
